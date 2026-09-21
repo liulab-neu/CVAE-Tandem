@@ -43,14 +43,19 @@ it from the shipped result files.
 
 ## Data and trained models
 
-Not in this repository — together they are about 860 MB:
+Tracked here, so the repository reproduces the paper on its own:
 
 | | size | contents |
 |---|---|---|
 | `2peak/data/cstdata_35547.npz` | 79 MB | double-notch training set |
-| `2peak/data/cstdata_35547/` | 539 MB | the 35,547 raw per-sample exports |
+| `2peak/data/cstdata_10496.npz` | 71 MB | the earlier double-notch set, kept for comparison |
 | `1peak/data/` | 16 MB | single-notch training set |
-| `<system>/model/*.ckpt`, `*.pth` | 261 MB | the six deployed networks |
+| `<system>/model/` | 261 MB | the six deployed networks and their provenance |
+
+Cloning therefore pulls about 450 MB. The one thing left out is
+`2peak/data/cstdata_35547/`, the 35,547 raw per-sample exports the bundle was
+packed from: 539 MB in 35k files, verified against the packed `.npz`, and read
+by nothing except `pack_dataset.py`.
 
 The double-notch set is a full factorial grid: both host refractive indices
 from 1.50 to 3.05 in steps of 0.1 (17 values each) and the nanoparticle radius
