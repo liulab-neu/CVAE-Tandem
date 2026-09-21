@@ -1,0 +1,7 @@
+workflow	1peak
+target_wavelength_nm	550.0000000000
+source_method	cvae
+source_structure_file	/home/yuxiao/Yuxiao Li/tandem/1peak/550/cvae/cvae_structure.txt
+R	4.5654797554
+n_host	2.4804568291
+angles_deg	0,30,60

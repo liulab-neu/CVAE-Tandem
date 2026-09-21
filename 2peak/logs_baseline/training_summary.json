@@ -1,0 +1,13 @@
+{
+  "seed": 42,
+  "stages": {
+    "tandem": {
+      "best_val": 0.0011791560100391507,
+      "best_epoch": 6033,
+      "epochs": 6834
+    }
+  },
+  "w_peak_wavelength": 0.0,
+  "w_peak_intensity": 0.0,
+  "w_generation": 300.0
+}

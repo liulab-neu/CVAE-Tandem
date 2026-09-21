@@ -1,0 +1,14 @@
+device cuda  train 1049  val 131  test 132  w_peak_wavelength 10.0
+== tandem network ==
+  [tandem] epoch 200 train 1.703e-05 val 4.186e-05 best 4.186e-05@199
+  [tandem] epoch 400 train 3.812e-03 val 2.469e-03 best 3.592e-05@300
+  [tandem] epoch 600 train 6.801e-05 val 1.029e-04 best 3.592e-05@300
+  [tandem] epoch 800 train 8.007e-04 val 6.559e-04 best 3.571e-05@728
+  [tandem] epoch 1000 train 1.160e-05 val 3.778e-05 best 3.571e-05@728
+  [tandem] epoch 1200 train 1.165e-05 val 3.761e-05 best 3.571e-05@728
+  [tandem] epoch 1400 train 1.355e-05 val 3.825e-05 best 3.523e-05@1298
+  [tandem] epoch 1600 train 3.431e-03 val 2.738e-03 best 3.523e-05@1298
+  [tandem] epoch 1800 train 1.284e-05 val 4.113e-05 best 3.523e-05@1298
+  [tandem] epoch 2000 train 1.102e-05 val 3.805e-05 best 3.523e-05@1298
+  [tandem] stopped at epoch 1999; best val 3.522590e-05 at epoch 1298; 66 s
+Saved: /home/yuxiao/Yuxiao Li/tandem/1peak/weight_grid_runs_tandem/w10_0/training_summary.json

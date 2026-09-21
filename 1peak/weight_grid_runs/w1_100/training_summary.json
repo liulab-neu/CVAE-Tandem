@@ -1,0 +1,23 @@
+{
+  "seed": 42,
+  "stages": {
+    "fnn": {
+      "best_val": 5.095617234474048e-05,
+      "best_epoch": 1926,
+      "epochs": 2000
+    },
+    "tandem": {
+      "best_val": 0.07577899843454361,
+      "best_epoch": 2,
+      "epochs": 2000
+    },
+    "cvae": {
+      "best_val": 2.8440821170806885,
+      "best_epoch": 1970,
+      "epochs": 2000
+    }
+  },
+  "w_peak_wavelength": 1.0,
+  "w_peak_intensity": 100.0,
+  "w_generation": 300.0
+}

@@ -1,0 +1,38 @@
+device cuda  train 1049  val 131  test 132  w_peak_wavelength 0.0
+== forward network ==
+  [fnn] epoch 200 train 2.172e-04 val 2.794e-04 best 7.803e-05@163
+  [fnn] epoch 400 train 4.644e-05 val 6.148e-05 best 5.984e-05@395
+  [fnn] epoch 600 train 4.169e-05 val 6.104e-05 best 5.126e-05@555
+  [fnn] epoch 800 train 3.264e-05 val 6.896e-05 best 5.026e-05@736
+  [fnn] epoch 1000 train 1.991e-05 val 5.309e-05 best 4.953e-05@980
+  [fnn] epoch 1200 train 1.754e-05 val 5.366e-05 best 4.884e-05@1003
+  [fnn] epoch 1400 train 2.924e-04 val 3.515e-04 best 4.884e-05@1003
+  [fnn] epoch 1600 train 1.469e-05 val 5.307e-05 best 4.884e-05@1003
+  [fnn] epoch 1800 train 1.364e-05 val 5.325e-05 best 4.884e-05@1003
+  [fnn] epoch 2000 train 1.205e-05 val 5.685e-05 best 4.884e-05@1003
+  [fnn] stopped at epoch 1999; best val 4.883794e-05 at epoch 1003; 67 s
+== tandem network ==
+  [tandem] epoch 200 train 3.034e-05 val 4.707e-05 best 4.281e-05@143
+  [tandem] epoch 400 train 3.243e-05 val 5.352e-05 best 3.760e-05@317
+  [tandem] epoch 600 train 2.681e-03 val 2.491e-03 best 3.748e-05@535
+  [tandem] epoch 800 train 1.535e-05 val 3.815e-05 best 3.576e-05@738
+  [tandem] epoch 1000 train 1.880e-05 val 3.992e-05 best 3.576e-05@738
+  [tandem] epoch 1200 train 1.772e-05 val 4.124e-05 best 3.510e-05@1013
+  [tandem] epoch 1400 train 2.194e-04 val 2.410e-04 best 3.502e-05@1289
+  [tandem] epoch 1600 train 1.469e-05 val 3.734e-05 best 3.502e-05@1289
+  [tandem] epoch 1800 train 1.600e-05 val 3.912e-05 best 3.502e-05@1289
+  [tandem] epoch 2000 train 2.359e-05 val 4.675e-05 best 3.502e-05@1289
+  [tandem] stopped at epoch 1999; best val 3.502357e-05 at epoch 1289; 41 s
+== CVAE ==
+  [cvae] epoch 200 train 1.154e+01 val 1.012e+01 best 9.695e+00@197
+  [cvae] epoch 400 train 8.630e+00 val 7.196e+00 best 6.938e+00@388
+  [cvae] epoch 600 train 6.588e+00 val 6.365e+00 best 5.199e+00@592
+  [cvae] epoch 800 train 5.326e+00 val 4.978e+00 best 4.257e+00@766
+  [cvae] epoch 1000 train 4.953e+00 val 4.153e+00 best 3.687e+00@979
+  [cvae] epoch 1200 train 4.316e+00 val 3.734e+00 best 3.199e+00@1191
+  [cvae] epoch 1400 train 4.074e+00 val 3.398e+00 best 3.070e+00@1387
+  [cvae] epoch 1600 train 3.893e+00 val 4.035e+00 best 3.030e+00@1560
+  [cvae] epoch 1800 train 3.659e+00 val 3.480e+00 best 2.913e+00@1744
+  [cvae] epoch 2000 train 3.377e+00 val 3.492e+00 best 2.870e+00@1970
+  [cvae] stopped at epoch 1999; best val 2.869608e+00 at epoch 1970; 92 s
+Saved: /home/yuxiao/Yuxiao Li/tandem/1peak/weight_grid_runs/w0_0/training_summary.json

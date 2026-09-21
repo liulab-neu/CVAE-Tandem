@@ -1,0 +1,792 @@
+[
+ {
+  "center": 410.0,
+  "its": {
+   "peak": 411.21533203125,
+   "depth": 0.004940821323543787,
+   "notch_depth": 0.964954839553684,
+   "fwhm_nm": 29.206890408540517,
+   "ideal_fwhm_nm": 29.95307102284221,
+   "width_ratio": 0.9750883435714269,
+   "error": 1.21533203125,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "structure": [
+    5.707643985748291,
+    1.5554815530776978
+   ]
+  },
+  "cts": {
+   "peak": 410.37591552734375,
+   "depth": 0.025990236550569534,
+   "notch_depth": 0.9406970851123333,
+   "fwhm_nm": 21.694770280717762,
+   "ideal_fwhm_nm": 29.95307102284221,
+   "width_ratio": 0.7242920188108035,
+   "error": 0.37591552734375,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "mode": "within_requested_wavelength_tolerance_fallback_best_generated_wavelength_band"
+  }
+ },
+ {
+  "center": 420.0,
+  "its": {
+   "peak": 422.5474853515625,
+   "depth": 0.007032809313386679,
+   "notch_depth": 0.9657807373441756,
+   "fwhm_nm": 29.688086239101267,
+   "ideal_fwhm_nm": 29.950215266772716,
+   "width_ratio": 0.9912478416152735,
+   "error": 2.5474853515625,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "structure": [
+    5.443056106567383,
+    1.6332337856292725
+   ]
+  },
+  "cts": {
+   "peak": 420.4489440917969,
+   "depth": 0.019948787987232208,
+   "notch_depth": 0.9517848417162895,
+   "fwhm_nm": 26.223205660168617,
+   "ideal_fwhm_nm": 29.950215266772716,
+   "width_ratio": 0.8755598391061012,
+   "error": 0.448944091796875,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "mode": "within_requested_wavelength_tolerance_fallback_best_generated_wavelength_band"
+  }
+ },
+ {
+  "center": 430.0,
+  "its": {
+   "peak": 430.941650390625,
+   "depth": 0.006947929970920086,
+   "notch_depth": 0.9727618144825101,
+   "fwhm_nm": 29.62032687111474,
+   "ideal_fwhm_nm": 29.947830016283376,
+   "width_ratio": 0.9890642111635279,
+   "error": 0.941650390625,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "structure": [
+    5.166644096374512,
+    1.7057163715362549
+   ]
+  },
+  "cts": {
+   "peak": 430.5219421386719,
+   "depth": 0.016919616609811783,
+   "notch_depth": 0.9629115425050259,
+   "fwhm_nm": 24.87295670827865,
+   "ideal_fwhm_nm": 29.947830016283376,
+   "width_ratio": 0.8305428705436958,
+   "error": 0.521942138671875,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "mode": "fallback_best_wavelength_band_within_generated_wavelength_tolerance"
+  }
+ },
+ {
+  "center": 440.0,
+  "its": {
+   "peak": 438.07672119140625,
+   "depth": 0.008389017544686794,
+   "notch_depth": 0.9703967357054353,
+   "fwhm_nm": 29.010064188295644,
+   "ideal_fwhm_nm": 29.946954482191188,
+   "width_ratio": 0.9687150059131157,
+   "error": 1.92327880859375,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "structure": [
+    4.980243682861328,
+    1.774507999420166
+   ]
+  },
+  "cts": {
+   "peak": 439.75555419921875,
+   "depth": 0.0010049298871308565,
+   "notch_depth": 0.9757207080256194,
+   "fwhm_nm": 46.95689105804405,
+   "ideal_fwhm_nm": 29.946954482191188,
+   "width_ratio": 1.5680022182545577,
+   "error": 0.24444580078125,
+   "shape_gate_passed": false,
+   "failed_conditions": [
+    "width_ratio"
+   ],
+   "mode": "within_requested_wavelength_tolerance_fallback_best_generated_wavelength_band"
+  }
+ },
+ {
+  "center": 450.0,
+  "its": {
+   "peak": 451.9271240234375,
+   "depth": 0.007937014102935791,
+   "notch_depth": 0.9767141938209534,
+   "fwhm_nm": 28.828643764422395,
+   "ideal_fwhm_nm": 29.94310168209728,
+   "width_ratio": 0.962780812438639,
+   "error": 1.9271240234375,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "structure": [
+    4.858293533325195,
+    1.8347043991088867
+   ]
+  },
+  "cts": {
+   "peak": 451.9271240234375,
+   "depth": 0.008677691221237183,
+   "notch_depth": 0.9761560261249542,
+   "fwhm_nm": 28.218395444143482,
+   "ideal_fwhm_nm": 29.94310168209728,
+   "width_ratio": 0.9424005483378168,
+   "error": 1.9271240234375,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "mode": "fallback_best_wavelength_band_fallback_best_generated_wavelength_band"
+  }
+ },
+ {
+  "center": 460.0,
+  "its": {
+   "peak": 459.901611328125,
+   "depth": 0.009703590534627438,
+   "notch_depth": 0.974627778865397,
+   "fwhm_nm": 29.398916081572906,
+   "ideal_fwhm_nm": 29.936928629122463,
+   "width_ratio": 0.9820284654376275,
+   "error": 0.098388671875,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "structure": [
+    4.7979230880737305,
+    1.9006929397583008
+   ]
+  },
+  "cts": {
+   "peak": 459.901611328125,
+   "depth": 0.0061857569962739944,
+   "notch_depth": 0.9768701922148466,
+   "fwhm_nm": 33.28878479515811,
+   "ideal_fwhm_nm": 29.936928629122463,
+   "width_ratio": 1.1119639294852373,
+   "error": 0.098388671875,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "mode": "within_final_and_generated_wavelength_tolerances"
+  }
+ },
+ {
+  "center": 470.0,
+  "its": {
+   "peak": 466.6169738769531,
+   "depth": 0.015987318009138107,
+   "notch_depth": 0.9699878878891468,
+   "fwhm_nm": 29.209786203552426,
+   "ideal_fwhm_nm": 29.93198827162763,
+   "width_ratio": 0.9758718979333633,
+   "error": 3.383026123046875,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "structure": [
+    4.632229804992676,
+    1.9585022926330566
+   ]
+  },
+  "cts": {
+   "peak": 469.1352233886719,
+   "depth": 0.0014513093046844006,
+   "notch_depth": 0.9786217254586518,
+   "fwhm_nm": 55.08454633663416,
+   "ideal_fwhm_nm": 29.93198827162763,
+   "width_ratio": 1.8403236643269871,
+   "error": 0.864776611328125,
+   "shape_gate_passed": false,
+   "failed_conditions": [
+    "width_ratio"
+   ],
+   "mode": "fallback_best_wavelength_band_fallback_best_generated_wavelength_band"
+  }
+ },
+ {
+  "center": 480.0,
+  "its": {
+   "peak": 478.36883544921875,
+   "depth": 0.01966669410467148,
+   "notch_depth": 0.9648316279053688,
+   "fwhm_nm": 30.242547928358363,
+   "ideal_fwhm_nm": 29.927318781155407,
+   "width_ratio": 1.0105331569963911,
+   "error": 1.63116455078125,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "structure": [
+    4.523922920227051,
+    2.011078357696533
+   ]
+  },
+  "cts": {
+   "peak": 480.4673767089844,
+   "depth": 0.05445285141468048,
+   "notch_depth": 0.9322410672903061,
+   "fwhm_nm": 28.027512986202737,
+   "ideal_fwhm_nm": 29.927318781155407,
+   "width_ratio": 0.9365193451225929,
+   "error": 0.467376708984375,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "mode": "within_requested_wavelength_tolerance_fallback_best_generated_wavelength_band"
+  }
+ },
+ {
+  "center": 490.0,
+  "its": {
+   "peak": 488.4418640136719,
+   "depth": 0.03848370164632797,
+   "notch_depth": 0.946546770632267,
+   "fwhm_nm": 31.070140083511546,
+   "ideal_fwhm_nm": 29.922858030100144,
+   "width_ratio": 1.0383413259608198,
+   "error": 1.558135986328125,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "structure": [
+    4.365631103515625,
+    2.0726518630981445
+   ]
+  },
+  "cts": {
+   "peak": 490.1206970214844,
+   "depth": 0.0035561416298151016,
+   "notch_depth": 0.9794170763343573,
+   "fwhm_nm": 51.34216307247368,
+   "ideal_fwhm_nm": 29.922858030100144,
+   "width_ratio": 1.7158174871139424,
+   "error": 0.120697021484375,
+   "shape_gate_passed": false,
+   "failed_conditions": [
+    "width_ratio"
+   ],
+   "mode": "within_final_and_generated_wavelength_tolerances"
+  }
+ },
+ {
+  "center": 500.0,
+  "its": {
+   "peak": 498.9346008300781,
+   "depth": 0.029440762475132942,
+   "notch_depth": 0.95698475651443,
+   "fwhm_nm": 31.800007642794696,
+   "ideal_fwhm_nm": 29.91973606427689,
+   "width_ratio": 1.0628438557906528,
+   "error": 1.065399169921875,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "structure": [
+    4.278244972229004,
+    2.1360604763031006
+   ]
+  },
+  "cts": {
+   "peak": 499.7740173339844,
+   "depth": 0.0306736808270216,
+   "notch_depth": 0.9561303872615099,
+   "fwhm_nm": 29.341370156579785,
+   "ideal_fwhm_nm": 29.91973606427689,
+   "width_ratio": 0.9806694181240572,
+   "error": 0.225982666015625,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "mode": "within_final_and_generated_wavelength_tolerances"
+  }
+ },
+ {
+  "center": 510.0,
+  "its": {
+   "peak": 508.5879211425781,
+   "depth": 0.026889536529779434,
+   "notch_depth": 0.9588487409055233,
+   "fwhm_nm": 31.38641702432119,
+   "ideal_fwhm_nm": 29.911064963330773,
+   "width_ratio": 1.04932462494395,
+   "error": 1.412078857421875,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "structure": [
+    4.253934383392334,
+    2.192652702331543
+   ]
+  },
+  "cts": {
+   "peak": 510.68646240234375,
+   "depth": 0.0015529971569776535,
+   "notch_depth": 0.9803324956446886,
+   "fwhm_nm": 63.10231753381822,
+   "ideal_fwhm_nm": 29.911064963330773,
+   "width_ratio": 2.109664688006863,
+   "error": 0.68646240234375,
+   "shape_gate_passed": false,
+   "failed_conditions": [
+    "width_ratio"
+   ],
+   "mode": "fallback_best_wavelength_band_fallback_best_generated_wavelength_band"
+  }
+ },
+ {
+  "center": 520.0,
+  "its": {
+   "peak": 516.5623779296875,
+   "depth": 0.025182126089930534,
+   "notch_depth": 0.9610418099910021,
+   "fwhm_nm": 31.47697299709216,
+   "ideal_fwhm_nm": 29.902639359434545,
+   "width_ratio": 1.0526486514696536,
+   "error": 3.4376220703125,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "structure": [
+    4.184069633483887,
+    2.244947671890259
+   ]
+  },
+  "cts": {
+   "peak": 519.9200439453125,
+   "depth": 0.011476469226181507,
+   "notch_depth": 0.9727862952277064,
+   "fwhm_nm": 38.10018419044985,
+   "ideal_fwhm_nm": 29.902639359434545,
+   "width_ratio": 1.274141179729304,
+   "error": 0.0799560546875,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "mode": "within_requested_wavelength_tolerance_fallback_best_generated_wavelength_band"
+  }
+ },
+ {
+  "center": 530.0,
+  "its": {
+   "peak": 523.2777709960938,
+   "depth": 0.023370355367660522,
+   "notch_depth": 0.9621720612049103,
+   "fwhm_nm": 31.62154319509807,
+   "ideal_fwhm_nm": 29.89403186168738,
+   "width_ratio": 1.0577878334178366,
+   "error": 6.72222900390625,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "structure": [
+    4.146564483642578,
+    2.312441349029541
+   ]
+  },
+  "cts": {
+   "peak": 529.9931030273438,
+   "depth": 0.014860152266919613,
+   "notch_depth": 0.968647719360888,
+   "fwhm_nm": 39.08478973927947,
+   "ideal_fwhm_nm": 29.89403186168738,
+   "width_ratio": 1.3074445735562052,
+   "error": 0.00689697265625,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "mode": "within_requested_wavelength_tolerance_fallback_best_generated_wavelength_band"
+  }
+ },
+ {
+  "center": 540.0,
+  "its": {
+   "peak": 535.8690185546875,
+   "depth": 0.04981283098459244,
+   "notch_depth": 0.9370482191443443,
+   "fwhm_nm": 31.880684937899332,
+   "ideal_fwhm_nm": 29.885088615477912,
+   "width_ratio": 1.066775653507277,
+   "error": 4.1309814453125,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "structure": [
+    4.019067287445068,
+    2.373364210128784
+   ]
+  },
+  "cts": {
+   "peak": 540.0661010742188,
+   "depth": 0.0015583958011120558,
+   "notch_depth": 0.9788282786030322,
+   "fwhm_nm": 76.67829356462471,
+   "ideal_fwhm_nm": 29.885088615477912,
+   "width_ratio": 2.565770995402434,
+   "error": 0.06610107421875,
+   "shape_gate_passed": false,
+   "failed_conditions": [
+    "width_ratio"
+   ],
+   "mode": "within_requested_wavelength_tolerance_fallback_best_generated_wavelength_band"
+  }
+ },
+ {
+  "center": 550.0,
+  "its": {
+   "peak": 542.5843505859375,
+   "depth": 0.06580832600593567,
+   "notch_depth": 0.9194229543209076,
+   "fwhm_nm": 33.007826366454765,
+   "ideal_fwhm_nm": 29.875625031193977,
+   "width_ratio": 1.1048413658957885,
+   "error": 7.4156494140625,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "structure": [
+    3.8598413467407227,
+    2.432943820953369
+   ]
+  },
+  "cts": {
+   "peak": 550.13916015625,
+   "depth": 0.012522046454250813,
+   "notch_depth": 0.9702939940616488,
+   "fwhm_nm": 46.80703025238881,
+   "ideal_fwhm_nm": 29.875625031193977,
+   "width_ratio": 1.5667297404996978,
+   "error": 0.13916015625,
+   "shape_gate_passed": false,
+   "failed_conditions": [
+    "width_ratio"
+   ],
+   "mode": "within_requested_wavelength_tolerance_fallback_best_generated_wavelength_band"
+  }
+ },
+ {
+  "center": 560.0,
+  "its": {
+   "peak": 553.0770874023438,
+   "depth": 0.06359099596738815,
+   "notch_depth": 0.9220130518078804,
+   "fwhm_nm": 35.073441528706326,
+   "ideal_fwhm_nm": 29.8661284483469,
+   "width_ratio": 1.1743551424606444,
+   "error": 6.92291259765625,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "structure": [
+    3.7328829765319824,
+    2.4988832473754883
+   ]
+  },
+  "cts": {
+   "peak": 560.212158203125,
+   "depth": 0.010202470235526562,
+   "notch_depth": 0.9731177063658834,
+   "fwhm_nm": 49.72215243441099,
+   "ideal_fwhm_nm": 29.8661284483469,
+   "width_ratio": 1.664834212455921,
+   "error": 0.212158203125,
+   "shape_gate_passed": false,
+   "failed_conditions": [
+    "width_ratio"
+   ],
+   "mode": "within_requested_wavelength_tolerance_fallback_best_generated_wavelength_band"
+  }
+ },
+ {
+  "center": 570.0,
+  "its": {
+   "peak": 563.9895629882812,
+   "depth": 0.0867278203368187,
+   "notch_depth": 0.8977452293038368,
+   "fwhm_nm": 37.060551170075314,
+   "ideal_fwhm_nm": 29.84994936628516,
+   "width_ratio": 1.2415616092111152,
+   "error": 6.01043701171875,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "structure": [
+    3.632493495941162,
+    2.567469596862793
+   ]
+  },
+  "cts": {
+   "peak": 569.44580078125,
+   "depth": 0.011080240830779076,
+   "notch_depth": 0.9701925758272409,
+   "fwhm_nm": 51.137998876971665,
+   "ideal_fwhm_nm": 29.84994936628516,
+   "width_ratio": 1.7131686975231815,
+   "error": 0.55419921875,
+   "shape_gate_passed": false,
+   "failed_conditions": [
+    "width_ratio"
+   ],
+   "mode": "fallback_best_wavelength_band_fallback_best_generated_wavelength_band"
+  }
+ },
+ {
+  "center": 580.0,
+  "its": {
+   "peak": 579.09912109375,
+   "depth": 0.07603303343057632,
+   "notch_depth": 0.9084417447447777,
+   "fwhm_nm": 36.891519725644116,
+   "ideal_fwhm_nm": 29.83484834117644,
+   "width_ratio": 1.2365244597113785,
+   "error": 0.90087890625,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "structure": [
+    3.490710496902466,
+    2.645653486251831
+   ]
+  },
+  "cts": {
+   "peak": 580.3582153320312,
+   "depth": 0.008620640262961388,
+   "notch_depth": 0.973038712516427,
+   "fwhm_nm": 52.79687096059649,
+   "ideal_fwhm_nm": 29.83484834117644,
+   "width_ratio": 1.7696376518103198,
+   "error": 0.35821533203125,
+   "shape_gate_passed": false,
+   "failed_conditions": [
+    "width_ratio"
+   ],
+   "mode": "within_final_and_generated_wavelength_tolerances"
+  }
+ },
+ {
+  "center": 590.0,
+  "its": {
+   "peak": 588.3327026367188,
+   "depth": 0.07451577484607697,
+   "notch_depth": 0.9115076512098312,
+   "fwhm_nm": 38.23181382013797,
+   "ideal_fwhm_nm": 29.834524014654335,
+   "width_ratio": 1.2814621678347875,
+   "error": 1.66729736328125,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "structure": [
+    3.5157787799835205,
+    2.7197399139404297
+   ]
+  },
+  "cts": {
+   "peak": 590.4312744140625,
+   "depth": 0.001978123327717185,
+   "notch_depth": 0.9581937550101429,
+   "fwhm_nm": 91.67225981854676,
+   "ideal_fwhm_nm": 29.834524014654335,
+   "width_ratio": 3.0726905437981356,
+   "error": 0.4312744140625,
+   "shape_gate_passed": false,
+   "failed_conditions": [
+    "width_ratio"
+   ],
+   "mode": "within_requested_wavelength_tolerance_fallback_best_generated_wavelength_band"
+  }
+ },
+ {
+  "center": 600.0,
+  "its": {
+   "peak": 603.8619384765625,
+   "depth": 0.05913810059428215,
+   "notch_depth": 0.9165599532425404,
+   "fwhm_nm": 38.690732025063085,
+   "ideal_fwhm_nm": 29.835111769000832,
+   "width_ratio": 1.2968187390959731,
+   "error": 3.8619384765625,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "structure": [
+    3.4975779056549072,
+    2.7904787063598633
+   ]
+  },
+  "cts": {
+   "peak": 598.40576171875,
+   "depth": 0.0020317903254181147,
+   "notch_depth": 0.9435843357350677,
+   "fwhm_nm": 83.70034515512145,
+   "ideal_fwhm_nm": 29.835111769000832,
+   "width_ratio": 2.8054309232415036,
+   "error": 1.59423828125,
+   "shape_gate_passed": false,
+   "failed_conditions": [
+    "width_ratio"
+   ],
+   "mode": "fallback_best_wavelength_band_fallback_best_generated_wavelength_band"
+  }
+ },
+ {
+  "center": 610.0,
+  "its": {
+   "peak": 613.0955810546875,
+   "depth": 0.08794154226779938,
+   "notch_depth": 0.8758343309164047,
+   "fwhm_nm": 42.30953197288068,
+   "ideal_fwhm_nm": 29.85158643723264,
+   "width_ratio": 1.4173294294372831,
+   "error": 3.0955810546875,
+   "shape_gate_passed": true,
+   "failed_conditions": [],
+   "structure": [
+    3.393711566925049,
+    2.864318609237671
+   ]
+  },
+  "cts": {
+   "peak": 608.8984985351562,
+   "depth": 0.0008149194181896746,
+   "notch_depth": 0.8330387425958179,
+   "fwhm_nm": 110.52250989261654,
+   "ideal_fwhm_nm": 29.85158643723264,
+   "width_ratio": 3.702399874961634,
+   "error": 1.10150146484375,
+   "shape_gate_passed": false,
+   "failed_conditions": [
+    "width_ratio"
+   ],
+   "mode": "fallback_best_wavelength_band_fallback_best_generated_wavelength_band"
+  }
+ },
+ {
+  "center": 620.0,
+  "its": {
+   "peak": 623.1685791015625,
+   "depth": 0.11060823500156403,
+   "notch_depth": 0.8388668745756149,
+   "fwhm_nm": 40.81684617464373,
+   "ideal_fwhm_nm": 29.866165815923296,
+   "width_ratio": 1.366658392852089,
+   "error": 3.1685791015625,
+   "shape_gate_passed": false,
+   "failed_conditions": [
+    "valley_depth"
+   ],
+   "structure": [
+    3.245713233947754,
+    2.9245846271514893
+   ]
+  },
+  "cts": {
+   "peak": 620.2306518554688,
+   "depth": 0.05619916692376137,
+   "notch_depth": 0.8972995541989803,
+   "fwhm_nm": 45.72879517634203,
+   "ideal_fwhm_nm": 29.866165815923296,
+   "width_ratio": 1.53112372904464,
+   "error": 0.23065185546875,
+   "shape_gate_passed": false,
+   "failed_conditions": [
+    "width_ratio"
+   ],
+   "mode": "within_requested_wavelength_tolerance_fallback_best_generated_wavelength_band"
+  }
+ },
+ {
+  "center": 630.0,
+  "its": {
+   "peak": 636.1795654296875,
+   "depth": 0.17264387011528015,
+   "notch_depth": 0.7554332911968231,
+   "fwhm_nm": 42.15944869451948,
+   "ideal_fwhm_nm": 29.876138338555734,
+   "width_ratio": 1.4111411661296231,
+   "error": 6.1795654296875,
+   "shape_gate_passed": false,
+   "failed_conditions": [
+    "valley_depth"
+   ],
+   "structure": [
+    3.024420738220215,
+    2.9754152297973633
+   ]
+  },
+  "cts": {
+   "peak": 629.8839111328125,
+   "depth": 0.04047315940260887,
+   "notch_depth": 0.8800919093191624,
+   "fwhm_nm": 46.630673746984485,
+   "ideal_fwhm_nm": 29.876138338555734,
+   "width_ratio": 1.5607999005281985,
+   "error": 0.1160888671875,
+   "shape_gate_passed": false,
+   "failed_conditions": [
+    "width_ratio"
+   ],
+   "mode": "within_requested_wavelength_tolerance_fallback_best_generated_wavelength_band"
+  }
+ },
+ {
+  "center": 640.0,
+  "its": {
+   "peak": 647.092041015625,
+   "depth": 0.26130232214927673,
+   "notch_depth": 0.6464274823665619,
+   "fwhm_nm": 42.946291483483265,
+   "ideal_fwhm_nm": 29.88571849504035,
+   "width_ratio": 1.4370171990548049,
+   "error": 7.092041015625,
+   "shape_gate_passed": false,
+   "failed_conditions": [
+    "valley_depth"
+   ],
+   "structure": [
+    2.711644411087036,
+    3.015592575073242
+   ]
+  },
+  "cts": {
+   "peak": 640.3766479492188,
+   "depth": 0.027349457144737244,
+   "notch_depth": 0.8709980398416519,
+   "fwhm_nm": 49.43110525178861,
+   "ideal_fwhm_nm": 29.88571849504035,
+   "width_ratio": 1.654004244870067,
+   "error": 0.37664794921875,
+   "shape_gate_passed": false,
+   "failed_conditions": [
+    "width_ratio"
+   ],
+   "mode": "within_requested_wavelength_tolerance_fallback_best_generated_wavelength_band"
+  }
+ },
+ {
+  "center": 650.0,
+  "its": {
+   "peak": 652.1285400390625,
+   "depth": 0.2180188149213791,
+   "notch_depth": 0.6938328891992569,
+   "fwhm_nm": 34.58693796134423,
+   "ideal_fwhm_nm": 29.894792681569243,
+   "width_ratio": 1.1569552707641888,
+   "error": 2.1285400390625,
+   "shape_gate_passed": false,
+   "failed_conditions": [
+    "valley_depth"
+   ],
+   "structure": [
+    2.536231756210327,
+    3.0453193187713623
+   ]
+  },
+  "cts": {
+   "peak": 651.2891235351562,
+   "depth": 0.00036546055343933403,
+   "notch_depth": 0.8550759905192535,
+   "fwhm_nm": 118.14358245402298,
+   "ideal_fwhm_nm": 29.894792681569243,
+   "width_ratio": 3.9519786510130555,
+   "error": 1.28912353515625,
+   "shape_gate_passed": false,
+   "failed_conditions": [
+    "width_ratio"
+   ],
+   "mode": "fallback_best_wavelength_band_within_generated_wavelength_tolerance"
+  }
+ }
+]

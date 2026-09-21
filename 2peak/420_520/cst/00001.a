@@ -1,0 +1,14 @@
+R: 4.6284747124
+w1: 800.0
+w2: 380.0
+wavelength: 532.0
+Alpha_Z: wavelength/16.0
+f2: 3e8/w2
+f1: 3e8/w1
+theta: 0.0
+USize: Alpha_Z
+f0: 683371.298405467
+T_host: 2*R+40.0
+n_host: 2.3
+n_host1: 1.6201324463
+n_host2: 2.3012211323

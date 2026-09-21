@@ -1,0 +1,2277 @@
+Structure file: /home/yuxiao/Yuxiao Li/tandem/2peak/420_520/cvae/cvae_structure.txt
+CST project: /home/yuxiao/Yuxiao Li/tandem/Filter_CST_DataGen_Share/parallel_work/w0/model2021_nk_model_multi_peaks.cst
+Output directory: /home/yuxiao/Yuxiao Li/tandem/2peak/420_520/cst
+Structure: R=4.6284747124, n_host1=1.6201324463, n_host2=2.3012211323
+2peak validation uses independent n_host1/n_host2; the primary training reference is theta=0 deg.
+Angles: (0.0, 30.0, 60.0)
+The new directory is created!
+CST Python library: /opt/cst/CST_Studio_Suite_2026/LinuxAMD64/python_cst_libraries
+/opt/cst/CST_Studio_Suite_2026/LinuxAMD64/python_cst_libraries/cst/__init__.py
+Using CST_CONFIG_HOME=/home/yuxiao/.config
+Using XDG_RUNTIME_DIR=/run/user/1002
+
+Detected ubuntu-24-04 operating system.
+
+Info: using CST mesa
+This is CST DESIGN ENVIRONMENT 2026.0 Release from 2025-08-29 (change 1465899)
+Using install path: /opt/cst/CST_Studio_Suite_2026/
+Using Qt 6.8.3 (compiled with 6.8.3)
+
+desktop: 
+Checking license servers...
+License search path found in CST registry: 27000@129.10.65.133
+Checking license at startup successfully passed.
+Connecting to license server: 27000@129.10.65.133
+==========================================
+Education Version
+
+This software is licensed for non-commercial use only.
+==========================================
+Using CST_CONFIG_HOME=/home/yuxiao/.config
+Using XDG_RUNTIME_DIR=/run/user/1002
+
+Detected ubuntu-24-04 operating system.
+
+Starting virtual X-server...
+Info: using CST mesa
+Trying display 2 of 100 -> Success
+Using DISPLAY=:2
+Info: using CST mesa
+This is CST DESIGN ENVIRONMENT 2026.0 Release from 2025-08-29 (change 1465899)
+Using install path: /opt/cst/CST_Studio_Suite_2026/
+Using Qt 6.8.3 (compiled with 6.8.3)
+
+2026.0 Release from 2025-08-29 (change 1465899)
+
+
+Preloading with /opt/cst/CST_Studio_Suite_2026/LinuxAMD64/libcstx11ldpreload.so:
+This is the modeler 2026.0 Release from 2025-08-29 (change 1465899)
+Startup: 18.09.2026 10:59:22
+Process id: 3070071
+Path: /opt/cst/CST_Studio_Suite_2026/LinuxAMD64/modeler_amd64.exe
+CPU Core number: 12
+Interactive run=1
+Modeler openmp threads: 10
+Parallel ACIS is active. Starting 10 worker threads for ACIS.
+This is the schematic 2026.0 Release from 2025-08-29 (change 1465899)
+Startup: 18.09.2026 10:59:23
+Process id: 3070238
+Path: /opt/cst/CST_Studio_Suite_2026/LinuxAMD64/schematic_amd64.exe
+Interactive run=1
+Project name: /home/yuxiao/Yuxiao Li/tandem/Filter_CST_DataGen_Share/parallel_work/w0/model2021_nk_model_multi_peaks.cst
+Project name: /home/yuxiao/Yuxiao Li/tandem/Filter_CST_DataGen_Share/parallel_work/w0/model2021_nk_model_multi_peaks.cst
+id=00001 R=4.6284747124 n_host1=1.6201324463 n_host2=2.3012211323 theta=0
+The new directory is created!
+Modeler finished successfully
+All files and subdirectories in the Result folder have been deleted.
+This is the modeler 2026.0 Release from 2025-08-29 (change 1465899)
+Startup: 18.09.2026 10:59:29
+Process id: 3070458
+Path: /opt/cst/CST_Studio_Suite_2026/LinuxAMD64/modeler_amd64.exe
+CPU Core number: 13
+Interactive run=1
+Modeler openmp threads: 10
+Parallel ACIS is active. Starting 10 worker threads for ACIS.
+This is the schematic 2026.0 Release from 2025-08-29 (change 1465899)
+Startup: 18.09.2026 10:59:30
+Process id: 3070617
+Path: /opt/cst/CST_Studio_Suite_2026/LinuxAMD64/schematic_amd64.exe
+Interactive run=1
+Project name: /home/yuxiao/Yuxiao Li/tandem/Filter_CST_DataGen_Share/parallel_work/w0/model2021_nk_model_multi_peaks.cst
+Project name: /home/yuxiao/Yuxiao Li/tandem/Filter_CST_DataGen_Share/parallel_work/w0/model2021_nk_model_multi_peaks.cst
+Update history
+Solver:
+[>                        ] 0 % [=========================] 100 % 
+Monitors will not be calculated because of the corresponding option in the solver dialog box.
+Frequency Domain Solver:
+[>                        ] 0 % [=========================] 100 % 
+Collecting features:
+Start solver <TetMesh>
+socket ids from command line: 0
+This is /opt/cst/CST_Studio_Suite_2026/LinuxAMD64/TetMesh_AMD64 build 2026.0 Release from 2025-08-29 (change 1465899)
+Caller build: Version 2026.0 Build: 20250829
+CPU Core number: 13
+
+Options:
+  - IPAddress                = 127.0.0.1:53243:3070458
+  - ProjectBaseName          = \home\yuxiao\Yuxiao Li\tandem\Filter_CST_DataGen_Share\parallel_work\w0\model2021_nk_model_multi_peaks.cst
+  - UserData                 = [MesherCmdCode][--code vsbdi0]
+  - ApplicationPath          = /opt/cst/CST_Studio_Suite_2026
+  - VersionInfo              = 
+  - bMPIActive               = false
+mpi_info:
+  - MPINodeID                = -1
+Processor group: 0
+cpu device ids : 0
+Environment variable CST_PROCESS_AFFINITY defining process affinity is not set. --> OK
+
+[>                        ] 0 % [=========================] 100 % [>                        ] 0 % [==>                      ] 10 % [=====>                   ] 20 % [=======>                 ] 30 % [==========>              ] 40 % [============>            ] 50 % [===============>         ] 60 % [=================>       ] 69 % [====================>    ] 80 % [======================>  ] 89 % [=========================] 100 % [>                        ] 0 % [>                        ] 2 % [=>                       ] 5 % [==>                      ] 7 % [==>                      ] 10 % [===>                     ] 14 % [====>                    ] 17 % [====>                    ] 18 % [=====>                   ] 21 % [======>                  ] 25 % [========>                ] 34 % [==========>              ] 40 % [===========>             ] 44 % [=========================] 100 % 
+Creating Tetrahedral Mesh:
+2026-09-18 10:59:34 PROGRESS: Mesher initialization
+Build Number: 20250829; ID: 2026.0 Release from 2025-08-29 (change 1465899); Date: 2025-08-29; ACIS version: 35.0.0, SPAresabs & SPAresnor: 1e-06, 1e-10; Problem class: High Frequency
+Temporary directory: "/home/yuxiao/Yuxiao Li/tandem/Filter_CST_DataGen_Share/parallel_work/w0/model2021_nk_model_multi_peaks/Temp/1-temp.tet"
+2026-09-18 10:59:34 PROGRESS: Starting
+- Reading information
+- Building single body
+2026-09-18 10:59:34 PROGRESS: Assembling model (Starting)
+2026-09-18 10:59:34 PROGRESS: Assembling model (Intersection check)
+2026-09-18 10:59:34 PROGRESS: Assembling model (Booleans)
+Found 40 faces.
+Choosing Advanced Boolean Loop...
+Volume Attributes enabled
+Attaching Volume Attributes
+Sorted out 4 special bodies.
+Processing 7 entities.
+Queue Size: 1
+Combining solid component1:Particle_First and solid component1:Particle_Second (Pair #1 out of 3)
+Combining solid component1:Particle_Fouth and solid component1:Particle_Third (Pair #2 out of 3)
+Combining solid component1:Host material_1 and solid component1:substrate_glass (Pair #3 out of 3)
+Processing 4 entities.
+Queue Size: 1
+Combining Compound Body and Compound Body (Pair #1 out of 2)
+Adding Compound Body to solid component1:Host_material_2 (Pair #2 out of 2)
+Processing 2 entities.
+Queue Size: 1
+Adding Compound Body to Compound Body (Pair #1 out of 1)
+Exiting Boolean Unite Module.
+Added Compound Body (ID: 119, 115, 113, 117, 121, 55, 84) to model
+Added background layer (ID: 1) to model
+Added background material (ID: 28) to model
+Added waveguide port (Floquet) at Zmin (ID: 148) to model
+Added waveguide port (Floquet) at Zmax (ID: 158) to model
+2026-09-18 10:59:34 PROGRESS: Assembling model (Finishing)
+2026-09-18 10:59:34 PROGRESS: Assembling model
+- Storing model cells
+2026-09-18 10:59:34 PROGRESS: Surface meshing
+[CADSurf] MeshGems Version: MeshGems-Core 2025 1.0.0
+[CADSurf] Setting Triangle as default element type
+[CADSurf] 	Calculating min. mesh size for CADSurf...
+[CADSurf] 	Diagonal of model + background box: 2513.52
+[CADSurf] 	Min. mesh size by diagonal (1e-3 x diagonal): 2.51352
+[CADSurf] 	Diagonal of model: 1373.56
+[CADSurf] 	Min. mesh size of model: 0.925695
+[CADSurf] 	Max. cell defined by user (near to model): 75.9474
+[CADSurf] 	Min. cell defined by user: 0
+[CADSurf] 	Min. cell used for calculation: 0.759474
+[CADSurf] 	Note: min. mesh size by diagonal is too large, consider using (0.01 x max. cell = 0.759474)
+[CADSurf] CADSurf "min_size" is set to min. cell: 0.759474
+[CADSurf] 	 Max user size    = 1.8986855040000006e+02
+[CADSurf] 	 Surface mesh size modification factor  = 1.0000000000000000e+00
+[CADSurf] 	 Global size near = 7.5947420160000036e+01
+[CADSurf] 	 Global size far  = 1.8986855040000006e+02
+[CADSurf] == CADSurf Parameters == 
+[CADSurf] === Begin: PreCAD-related parameters ===
+[CADSurf] meshgems_cadsurf_set_param(css, "use_precad",  "yes")
+[CADSurf] Bounding box diagonal = 2.5135172173564470e+03
+[CADSurf] meshgems_cadsurf_set_param(css, "remove_nano_edges",  "0")
+[CADSurf] meshgems_cadsurf_set_param(css, "discard_input_topology",  "0")
+[CADSurf] meshgems_cadsurf_set_param(css, "process_3d_topology",  "0")
+[CADSurf] meshgems_cadsurf_set_param(css, "discard_input_2d_topology",  "0")
+[CADSurf] Default periodic tolerance (1e-4*diag) = 2.5135172173564468e-01
+[CADSurf] Minimum periodic tolerance = 1.0000000000000001e-05
+[CADSurf] Setting it to max( 1.0000000000000001e-05, 2.5135172173564468e-01 )
+[CADSurf] meshgems_cadsurf_set_param(css, "periodic_tolerance",  "0.25135172173564468")
+[CADSurf] meshgems_cadsurf_set_param(css, "remove_duplicate_cad_faces",  "0")
+[CADSurf] meshgems_cadsurf_set_param(css, "remove_tiny_uv_edges",  "0")
+[CADSurf] === End: PreCAD-related parameters ===
+[CADSurf] meshgems_cadsurf_set_param(css, "verbose",  "3")
+[CADSurf] meshgems_cadsurf_set_param(css, "geometric_size_mode",  "local")
+[CADSurf] meshgems_cadsurf_set_param(css, "physical_size_mode",  "local")
+[CADSurf] 	 Upper size bound = 1.8986855040000006e+02
+[CADSurf] meshgems_cadsurf_set_param(css, "max_size",  "189.86855040000006")
+[CADSurf] meshgems_cadsurf_set_param(css, "min_size",  "0.75947420160000034")
+[CADSurf] meshgems_cadsurf_set_param(css, "max_number_of_points_per_patch",  "0")
+[CADSurf] meshgems_cadsurf_set_param(css, "element_generation",  "local")
+[CADSurf] meshgems_cadsurf_set_param(css, "gradation",  "1.5")
+[CADSurf] meshgems_cadsurf_set_param(css, "volume_gradation",  "2")
+[CADSurf] meshgems_cadsurf_set_param(css, "patch_independent",  "0")
+[CADSurf] meshgems_cadsurf_set_param(css, "remove_tiny_edges",  "0")
+[CADSurf] meshgems_cadsurf_set_param(css, "optimise_tiny_edges",  "0")
+[CADSurf] meshgems_cadsurf_set_param(css, "tiny_edge_respect_geometry",  "1")
+[CADSurf] meshgems_cadsurf_set_param(css, "CheckWellDefined",  "8")
+[CADSurf] meshgems_cadsurf_set_param(css, "anisotropic",  "1")
+[CADSurf] meshgems_cadsurf_set_param(css, "anisotropic_ratio",  "5")
+[CADSurf] meshgems_cadsurf_set_param(css, "correct_surface_intersections",  "1")
+[CADSurf] meshgems_cadsurf_set_param(css, "intersection_processing_max_cost",  "15")
+[CADSurf] ==
+[CADSurf] Geometric refinement uses "min_size" setting.
+[CADSurf] Status: OK
+[CADSurf] Number of intersecting edges: 0, total edge count: 226
+[CADSurf] Number of intersecting faces: 0
+[CADSurf] - Mesh stats: N=1844, E=226, T=3694, Q=0
+[CADSurf] Testing watertightness
+[CADSurf] - OK
+Surface mesh intersection check
+- surface mesh is free from self-intersections
+- OK
+Srf mesh has intersections = false
+runCVMResilient Flag = false
+enforceCVMResilient = false
+runCVMResilient = false
+Creating volume mesh from surface mesh
+[SrfToVol] Running CVM
+[SrfToVol] Surface to volume mesh: verifying input data
+[SrfToVol] 
+[SrfToVol] Generate volume mesh for 9 subdomains using 10 threads 
+ 
+2026-09-18 10:59:34 PROGRESS: Volume meshing (Meshing subdomains)
+2026-09-18 10:59:34 PROGRESS: Volume meshing
+[SrfToVol] Assembling volume mesh
+[SrfToVol] Volume mesh generated - Status = ok
+[SrfToVol] - Volume mesh stats: Nb nodes = 4652, Nb edges = 226, Nb surface elements = 3694, Nb tets = 25814
+2026-09-18 10:59:34 PROGRESS: Postprocessing
+Creating mesh topology.
+Using mesh topology.
+Writing ACIS sat.tet file because UIDs may have changed.
+2026-09-18 10:59:34 PROGRESS: Finishing
+Using generalized mesh output routines.
+Writing Bc file
+Running model geometry simplification... 
+Model geometry simplification: 0.000112 s
+Writing topot.tet...
+Done (topot.tet)
+Writing moegeom.tet ...
+Done (moegeom.tet) 
+Writing gex file for volume mesh
+Creating volume mesh from surface mesh - done
+Mesh curving:
+    number of threads: 10
+Curving elements
+2026-09-18 10:59:34 PROGRESS: Curving mesh
+2026-09-18 10:59:34 PROGRESS: Mesh curving
+ Curve elements, order = 3
+
+Running ConnectivityCheck ...
+Connectivity Check: Mesh I/O took 0.014044 seconds.
+Connectivity Check: Computation took 0.000527 seconds.
+Running ConnectivityCheck ... done
+2026-09-18 10:59:35 INFORMATION: Meshing successful.
+Feedback: Writing the full feedback report in log.tet ...
+
+#### Feedback Report Begins ####
+#### Feedback Report Ends ####
+
+... done.
+Feedback: Removing previously generated graphical feedback file ...
+... done.
+Inserting graphical feedback in the Axg Object...
+... done.
+Feedback: Writing the Axg Object to disk ...
+... done.
+Feedback: Writing the frontend feedback report ...
+Feedback: Registering the Axg file in the result manager ...
+[>                        ] 0 % [>                        ] 0 % [>                        ] 1 % [=>                       ] 5 % [=>                       ] 7 % [==>                      ] 7 % [==>                      ] 10 % [==>                      ] 10 % [===>                     ] 11 % [===>                     ] 12 % [===>                     ] 14 % [===>                     ] 15 % [====>                    ] 15 % [====>                    ] 17 % [====>                    ] 18 % [====>                    ] 18 % [=====>                   ] 20 % [=====>                   ] 20 % [=====>                   ] 21 % [=====>                   ] 23 % [======>                  ] 23 % [======>                  ] 25 % [======>                  ] 25 % [=======>                 ] 28 % [=======>                 ] 31 % [========>                ] 34 % [========>                ] 34 % [=========>               ] 36 % [=========>               ] 37 % [=========>               ] 37 % [=========>               ] 38 % [==========>              ] 40 % [==========>              ] 40 % [==========>              ] 41 % [==========>              ] 43 % [===========>             ] 43 % [===========>             ] 44 % [===========>             ] 46 % [============>            ] 47 % [============>            ] 50 % [=============>           ] 51 % [=============>           ] 52 % [=============>           ] 54 % [=============>           ] 55 % [==============>          ] 56 % [==============>          ] 56 % [==============>          ] 57 % [==============>          ] 58 % [===============>         ] 60 % [===============>         ] 61 % [===============>         ] 62 % [================>        ] 63 % [================>        ] 64 % [================>        ] 66 % [================>        ] 67 % [=================>       ] 68 % [=================>       ] 70 % [==================>      ] 74 % [==================>      ] 75 % [===================>     ] 77 % [=====================>   ] 83 % [=====================>   ] 86 % [=====================>   ] 87 % [======================>  ] 89 % [=========================] 100 % 
+Meshing successful
+... done.
+Done
+2026-09-18 10:59:35 FINISHED: Return code = 1
+Creating Tetrahedral Mesh:
+Start solver <Solver_HF_Tet_FD>
+socket ids from command line: 0
+This is /opt/cst/CST_Studio_Suite_2026/LinuxAMD64/Solver_HF_Tet_FD_AMD64 build 2026.0 Release from 2025-08-29 (change 1465899)
+Caller build: Version 2026.0 Build: 20250829
+CPU Core number: 13
+
+Options:
+  - IPAddress                = 127.0.0.1:45023:3070458
+  - ProjectBaseName          = \home\yuxiao\Yuxiao Li\tandem\Filter_CST_DataGen_Share\parallel_work\w0\model2021_nk_model_multi_peaks.cst
+  - UserData                 = .json;219928284
+  - ApplicationPath          = /opt/cst/CST_Studio_Suite_2026
+  - VersionInfo              = 
+  - bMPIActive               = false
+mpi_info:
+  - MPINodeID                = -1
+Processor group: 0
+cpu device ids : 0
+Environment variable CST_PROCESS_AFFINITY defining process affinity is not set. --> OK
+
+[>                        ] 0 %                                Frequency Domain Solver:
+[>                        ] 0 %                                WARNING: The mesh adaptation has been deactivated. It is strongly recommended to enable the mesh adaptation for the tetrahedral mesh unless the problem is very large.
+[>                        ] 0 %                                An iterative solver will be used first.
+[>                        ] 0 % [===>                     ] 15 %                                 Frequency Domain Solver:
+[===>                     ] 15 %                                 The low frequency stabilization is not applied to periodic problems.
+[===>                     ] 15 %                                 Frequency Domain Solver:
+[===>                     ] 15 %                                 Frequency Domain Solver (1):
+[===>                     ] 15 %                                 Sample 1 (789474 GHz, Theta: 0, Phi: 0)
+[===>                     ] 15 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (1):
+[>                        ] 0 % [====>                    ] 18 % [==========>              ] 40 % [=========>               ] 38 % [============>            ] 50 % [===============>         ] 60 % [==============>          ] 58 %                                 Excitation: port Zmax, mode 1
+2026-09-18 10:59:35 PROGRESS: Frequency Domain Solver ()
+2026-09-18 10:59:35 PROGRESS: Initializing 1D results...
+2026-09-18 10:59:35 PROGRESS: ...
+2026-09-18 10:59:35 WARNING: The mesh adaptation has been deactivated. It is strongly recommended to enable the mesh adaptation for the tetrahedral mesh unless the problem is very large..
+2026-09-18 10:59:35 INFORMATION: An iterative solver will be used first..
+2026-09-18 10:59:36 PROGRESS: . . .
+2026-09-18 10:59:36 INFORMATION: The low frequency stabilization is not applied to periodic problems..
+2026-09-18 10:59:36 PROGRESS: Solver is running.
+2026-09-18 10:59:36 PROGRESS: Frequency Domain Solver (1) (Solver is running.)
+2026-09-18 10:59:36 INFORMATION: Sample 1 (789474 GHz, Theta: 0, Phi: 0).
+2026-09-18 10:59:36 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 10:59:36 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 10:59:36 PROGRESS: Frequency Domain Solver (1) (Solver is running.)
+2026-09-18 10:59:36 PROGRESS: Initializing solver
+INFORMATION: Bad element list has been updated.
+2026-09-18 10:59:36 PROGRESS: Creating degrees of freedom
+2026-09-18 10:59:36 PROGRESS: . . .
+2026-09-18 10:59:36 PROGRESS: Setting up equation system
+2026-09-18 10:59:36 PROGRESS: . . .
+2026-09-18 10:59:36 PROGRESS: Setting up equation system
+2026-09-18 10:59:36 PROGRESS: 
+2026-09-18 10:59:36 PROGRESS: . . .
+2026-09-18 10:59:36 PROGRESS: Iterative solver setup
+2026-09-18 10:59:39 PROGRESS: . . .
+2026-09-18 10:59:39 PROGRESS: Iterative solver run
+2026-09-18 10:59:39 INFORMATION: Excitation: port Zmax, mode 1.
+Block-QMR(25): 8.68668e-05
+[==============>          ] 58 % [===============>         ] 62 % [==================>      ] 74 % [==================>      ] 75 % [===================>     ] 76 % [===================>     ] 79 % [====================>    ] 80 % [====================>    ] 82 % [=====================>   ] 83 % [=====================>   ] 85 % [=====================>   ] 86 % [======================>  ] 88 % [=======================> ] 93 % [=======================> ] 93 % [=======================> ] 94 % [========================>] 95 % [========================>] 99 % [=========================] 100 % [==============>          ] 58 %                                 Frequency Domain Solver (1):
+[==============>          ] 58 % [=========================] 100 % [========================>] 99 % [=========================] 100 % [========================>] 99 %                                 Frequency Domain Solver (2):
+[========================>] 99 %                                 Sample 2 (375000 GHz, Theta: 0, Phi: 0)
+[========================>] 99 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (2):
+2026-09-18 10:59:44 PROGRESS: . . .
+2026-09-18 10:59:44 PROGRESS: 
+2026-09-18 10:59:44 PROGRESS: Saving S-Parameter plots
+2026-09-18 10:59:44 PROGRESS: . . .
+2026-09-18 10:59:44 PROGRESS:  
+INFORMATION: Results have been updated.
+2026-09-18 10:59:44 PROGRESS: Solver is running.
+2026-09-18 10:59:44 PROGRESS: Frequency Domain Solver (2) (Solver is running.)
+2026-09-18 10:59:44 INFORMATION: Sample 2 (375000 GHz, Theta: 0, Phi: 0).
+2026-09-18 10:59:44 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 10:59:44 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 10:59:44 PROGRESS: . . .
+2026-09-18 10:59:44 PROGRESS: Frequency Domain Solver (2) (. . .)
+2026-09-18 10:59:44 PROGRESS: Setting up equation system
+2026-09-18 10:59:44 PROGRESS: 
+2026-09-18 10:59:44 PROGRESS: . . .
+2026-09-18 10:59:44 PROGRESS: Iterative solver setup
+SPE: nSelected                        = 1
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13406
+SPE: nExtrapolationVectors            = 1
+[>                        ] 0 % [======>                  ] 25 % [==========>              ] 40 % [============>            ] 50 %                                 Excitation: port Zmax, mode 1
+2026-09-18 10:59:46 PROGRESS: . . .
+2026-09-18 10:59:46 PROGRESS: Iterative solver run
+2026-09-18 10:59:46 INFORMATION: Excitation: port Zmax, mode 1.
+Block-QMR(25): 0.000611313
+[============>            ] 50 % [==================>      ] 72 % [==================>      ] 74 % [===================>     ] 75 % [===================>     ] 76 % [===================>     ] 77 % [===================>     ] 79 % [====================>    ] 81 % [=====================>   ] 85 % [=====================>   ] 86 % [======================>  ] 88 % [======================>  ] 89 % [=======================> ] 92 % [=======================> ] 93 % [=======================> ] 94 % [========================>] 95 % [=========================] 100 % [============>            ] 50 %                                 Frequency Domain Solver (2):
+[============>            ] 50 % [=========================] 100 % [============>            ] 50 %                                 Frequency Domain Solver (3):
+[============>            ] 50 %                                 Sample 3 (582237 GHz, Theta: 0, Phi: 0)
+[============>            ] 50 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (3):
+2026-09-18 10:59:52 PROGRESS: . . .
+2026-09-18 10:59:52 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 10:59:52 PROGRESS: Solver is running.
+2026-09-18 10:59:52 PROGRESS: Frequency Domain Solver (3) (Solver is running.)
+2026-09-18 10:59:52 INFORMATION: Sample 3 (582237 GHz, Theta: 0, Phi: 0).
+2026-09-18 10:59:52 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 10:59:52 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 10:59:52 PROGRESS: . . .
+2026-09-18 10:59:52 PROGRESS: Frequency Domain Solver (3) (. . .)
+2026-09-18 10:59:52 PROGRESS: Setting up equation system
+2026-09-18 10:59:52 PROGRESS: 
+2026-09-18 10:59:52 PROGRESS: . . .
+2026-09-18 10:59:52 PROGRESS: Iterative solver setup
+SPE: nSelected                        = 2
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13460
+SPE: nExtrapolationVectors            = 2
+[>                        ] 0 % [======>                  ] 25 % [==========>              ] 40 % [============>            ] 50 %                                 Excitation: port Zmax, mode 1
+2026-09-18 10:59:54 PROGRESS: . . .
+2026-09-18 10:59:54 PROGRESS: Iterative solver run
+2026-09-18 10:59:54 INFORMATION: Excitation: port Zmax, mode 1.
+Block-QMR(25): 0.00713724
+Block-QMR(50): 0.00169015
+Block-QMR(75): 0.000397344
+Block-QMR(100): 0.000200378
+[============>            ] 50 % [==============>          ] 56 % [==============>          ] 58 % [===============>         ] 60 % [===============>         ] 61 % [===============>         ] 62 % [===============>         ] 62 % [================>        ] 63 % [================>        ] 64 % [================>        ] 67 % [=================>       ] 68 % [=================>       ] 70 % [==================>      ] 74 % [==================>      ] 75 % [===================>     ] 75 % [===================>     ] 76 % [===================>     ] 77 % [===================>     ] 79 % [====================>    ] 80 % [====================>    ] 81 % [====================>    ] 81 % [====================>    ] 82 % [=====================>   ] 83 % [=====================>   ] 85 % [======================>  ] 87 % [======================>  ] 88 % [======================>  ] 89 % [======================>  ] 91 % [=======================> ] 92 % [=======================> ] 93 % [=======================> ] 93 % [=======================> ] 94 % [========================>] 95 % [========================>] 97 % [========================>] 99 % [=========================] 100 % [============>            ] 50 %                                 Frequency Domain Solver (3):
+[============>            ] 50 % [=========================] 100 % 
+The direct solver will be used.
+[============>            ] 50 %                                 Frequency Domain Solver (3):
+[============>            ] 50 %                                 Frequency Domain Solver (4):
+[============>            ] 50 %                                 Sample 4 (651039 GHz, Theta: 0, Phi: 0)
+[============>            ] 50 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (4):
+2026-09-18 11:00:16 PROGRESS: . . .
+2026-09-18 11:00:16 INFORMATION: The direct solver will be used..
+2026-09-18 11:00:16 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:16 PROGRESS: Solver is running.
+2026-09-18 11:00:16 PROGRESS: Frequency Domain Solver (4) (Solver is running.)
+2026-09-18 11:00:16 INFORMATION: Sample 4 (651039 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:16 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:16 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:16 PROGRESS: . . .
+2026-09-18 11:00:16 PROGRESS: Frequency Domain Solver (4) (. . .)
+2026-09-18 11:00:16 PROGRESS: Setting up equation system
+2026-09-18 11:00:16 PROGRESS: . . .
+2026-09-18 11:00:16 PROGRESS: Setting up equation system
+2026-09-18 11:00:16 PROGRESS: 
+2026-09-18 11:00:16 PROGRESS: . . .
+2026-09-18 11:00:16 PROGRESS: Matrix factorization
+SPE: nSelected                        = 3
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13166
+SPE: nExtrapolationVectors            = 3
+[>                        ] 0 % [=====>                   ] 20 % [==========>              ] 43 % [==========>              ] 41 % [=======================> ] 94 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (4):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (5):
+[=======================> ] 93 %                                 Sample 5 (505559 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (5):
+2026-09-18 11:00:18 PROGRESS: . . .
+2026-09-18 11:00:18 PROGRESS: Direct solver run
+2026-09-18 11:00:18 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:18 PROGRESS: . . .
+2026-09-18 11:00:18 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:18 PROGRESS: Solver is running.
+2026-09-18 11:00:18 PROGRESS: Frequency Domain Solver (5) (Solver is running.)
+2026-09-18 11:00:18 INFORMATION: Sample 5 (505559 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:18 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:18 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:18 PROGRESS: . . .
+2026-09-18 11:00:18 PROGRESS: Frequency Domain Solver (5) (. . .)
+2026-09-18 11:00:19 PROGRESS: Setting up equation system
+2026-09-18 11:00:19 PROGRESS: 
+2026-09-18 11:00:19 PROGRESS: . . .
+2026-09-18 11:00:19 PROGRESS: Matrix factorization
+SPE: nSelected                        = 4
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12903
+SPE: nExtrapolationVectors            = 4
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=================>       ] 69 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (5):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (6):
+[=======================> ] 93 %                                 Sample 6 (702849 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (6):
+2026-09-18 11:00:20 PROGRESS: . . .
+2026-09-18 11:00:20 PROGRESS: Direct solver run
+2026-09-18 11:00:20 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:20 PROGRESS: . . .
+2026-09-18 11:00:20 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:20 PROGRESS: Solver is running.
+2026-09-18 11:00:20 PROGRESS: Frequency Domain Solver (6) (Solver is running.)
+2026-09-18 11:00:20 INFORMATION: Sample 6 (702849 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:20 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:20 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:20 PROGRESS: . . .
+2026-09-18 11:00:20 PROGRESS: Frequency Domain Solver (6) (. . .)
+2026-09-18 11:00:20 PROGRESS: Setting up equation system
+2026-09-18 11:00:20 PROGRESS: 
+2026-09-18 11:00:20 PROGRESS: . . .
+2026-09-18 11:00:20 PROGRESS: Matrix factorization
+SPE: nSelected                        = 5
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12894
+SPE: nExtrapolationVectors            = 5
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (6):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (7):
+[=======================> ] 93 %                                 Sample 7 (473230 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (7):
+2026-09-18 11:00:21 PROGRESS: . . .
+2026-09-18 11:00:21 PROGRESS: Direct solver run
+2026-09-18 11:00:21 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:22 PROGRESS: . . .
+2026-09-18 11:00:22 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:22 PROGRESS: Solver is running.
+2026-09-18 11:00:22 PROGRESS: Frequency Domain Solver (7) (Solver is running.)
+2026-09-18 11:00:22 INFORMATION: Sample 7 (473230 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:22 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:22 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:22 PROGRESS: . . .
+2026-09-18 11:00:22 PROGRESS: Frequency Domain Solver (7) (. . .)
+2026-09-18 11:00:22 PROGRESS: Setting up equation system
+2026-09-18 11:00:22 PROGRESS: 
+2026-09-18 11:00:22 PROGRESS: . . .
+2026-09-18 11:00:22 PROGRESS: Matrix factorization
+SPE: nSelected                        = 6
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12909
+SPE: nExtrapolationVectors            = 6
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (7):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (8):
+[=======================> ] 93 %                                 Sample 8 (537474 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (8):
+2026-09-18 11:00:23 PROGRESS: . . .
+2026-09-18 11:00:23 PROGRESS: Direct solver run
+2026-09-18 11:00:23 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:23 PROGRESS: . . .
+2026-09-18 11:00:23 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:23 PROGRESS: Solver is running.
+2026-09-18 11:00:23 PROGRESS: Frequency Domain Solver (8) (Solver is running.)
+2026-09-18 11:00:23 INFORMATION: Sample 8 (537474 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:23 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:23 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:23 PROGRESS: . . .
+2026-09-18 11:00:23 PROGRESS: Frequency Domain Solver (8) (. . .)
+2026-09-18 11:00:23 PROGRESS: Setting up equation system
+2026-09-18 11:00:23 PROGRESS: 
+2026-09-18 11:00:23 PROGRESS: . . .
+2026-09-18 11:00:23 PROGRESS: Matrix factorization
+SPE: nSelected                        = 7
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12877
+SPE: nExtrapolationVectors            = 7
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (8):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (9):
+[=======================> ] 93 %                                 Sample 9 (603375 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (9):
+2026-09-18 11:00:25 PROGRESS: . . .
+2026-09-18 11:00:25 PROGRESS: Direct solver run
+2026-09-18 11:00:25 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:25 PROGRESS: . . .
+2026-09-18 11:00:25 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:25 PROGRESS: Solver is running.
+2026-09-18 11:00:25 PROGRESS: Frequency Domain Solver (9) (Solver is running.)
+2026-09-18 11:00:25 INFORMATION: Sample 9 (603375 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:25 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:25 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:25 PROGRESS: . . .
+2026-09-18 11:00:25 PROGRESS: Frequency Domain Solver (9) (. . .)
+2026-09-18 11:00:25 PROGRESS: Setting up equation system
+2026-09-18 11:00:25 PROGRESS: 
+2026-09-18 11:00:25 PROGRESS: . . .
+2026-09-18 11:00:25 PROGRESS: Matrix factorization
+SPE: nSelected                        = 8
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12842
+SPE: nExtrapolationVectors            = 8
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (9):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (10):
+[=======================> ] 93 %                                 Sample 10 (553638 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (10):
+2026-09-18 11:00:26 PROGRESS: . . .
+2026-09-18 11:00:26 PROGRESS: Direct solver run
+2026-09-18 11:00:26 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:27 PROGRESS: . . .
+2026-09-18 11:00:27 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:27 PROGRESS: Solver is running.
+2026-09-18 11:00:27 PROGRESS: Frequency Domain Solver (10) (Solver is running.)
+2026-09-18 11:00:27 INFORMATION: Sample 10 (553638 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:27 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:27 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:27 PROGRESS: . . .
+2026-09-18 11:00:27 PROGRESS: Frequency Domain Solver (10) (. . .)
+2026-09-18 11:00:27 PROGRESS: Setting up equation system
+2026-09-18 11:00:27 PROGRESS: 
+2026-09-18 11:00:27 PROGRESS: . . .
+2026-09-18 11:00:27 PROGRESS: Matrix factorization
+SPE: nSelected                        = 9
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12813
+SPE: nExtrapolationVectors            = 9
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (10):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (11):
+[=======================> ] 93 %                                 Sample 11 (636118 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (11):
+2026-09-18 11:00:28 PROGRESS: . . .
+2026-09-18 11:00:28 PROGRESS: Direct solver run
+2026-09-18 11:00:28 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:28 PROGRESS: . . .
+2026-09-18 11:00:28 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:28 PROGRESS: Solver is running.
+2026-09-18 11:00:28 PROGRESS: Frequency Domain Solver (11) (Solver is running.)
+2026-09-18 11:00:28 INFORMATION: Sample 11 (636118 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:28 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:28 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:28 PROGRESS: . . .
+2026-09-18 11:00:28 PROGRESS: Frequency Domain Solver (11) (. . .)
+2026-09-18 11:00:28 PROGRESS: Setting up equation system
+2026-09-18 11:00:28 PROGRESS: 
+2026-09-18 11:00:28 PROGRESS: . . .
+2026-09-18 11:00:28 PROGRESS: Matrix factorization
+SPE: nSelected                        = 10
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12815
+SPE: nExtrapolationVectors            = 10
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (11):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (12):
+[=======================> ] 93 %                                 Sample 12 (665132 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (12):
+2026-09-18 11:00:29 PROGRESS: . . .
+2026-09-18 11:00:29 PROGRESS: Direct solver run
+2026-09-18 11:00:29 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:30 PROGRESS: . . .
+2026-09-18 11:00:30 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:30 PROGRESS: Solver is running.
+2026-09-18 11:00:30 PROGRESS: Frequency Domain Solver (12) (Solver is running.)
+2026-09-18 11:00:30 INFORMATION: Sample 12 (665132 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:30 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:30 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:30 PROGRESS: . . .
+2026-09-18 11:00:30 PROGRESS: Frequency Domain Solver (12) (. . .)
+2026-09-18 11:00:30 PROGRESS: Setting up equation system
+2026-09-18 11:00:30 PROGRESS: 
+2026-09-18 11:00:30 PROGRESS: . . .
+2026-09-18 11:00:30 PROGRESS: Matrix factorization
+SPE: nSelected                        = 11
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12825
+SPE: nExtrapolationVectors            = 11
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (12):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (13):
+[=======================> ] 93 %                                 Sample 13 (572289 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (13):
+2026-09-18 11:00:31 PROGRESS: . . .
+2026-09-18 11:00:31 PROGRESS: Direct solver run
+2026-09-18 11:00:31 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:31 PROGRESS: . . .
+2026-09-18 11:00:31 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:31 PROGRESS: Solver is running.
+2026-09-18 11:00:31 PROGRESS: Frequency Domain Solver (13) (Solver is running.)
+2026-09-18 11:00:31 INFORMATION: Sample 13 (572289 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:31 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:31 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:31 PROGRESS: . . .
+2026-09-18 11:00:31 PROGRESS: Frequency Domain Solver (13) (. . .)
+2026-09-18 11:00:31 PROGRESS: Setting up equation system
+2026-09-18 11:00:31 PROGRESS: 
+2026-09-18 11:00:31 PROGRESS: . . .
+2026-09-18 11:00:31 PROGRESS: Matrix factorization
+SPE: nSelected                        = 12
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12861
+SPE: nExtrapolationVectors            = 12
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (13):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (14):
+[=======================> ] 93 %                                 Sample 14 (465770 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (14):
+2026-09-18 11:00:33 PROGRESS: . . .
+2026-09-18 11:00:33 PROGRESS: Direct solver run
+2026-09-18 11:00:33 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:33 PROGRESS: . . .
+2026-09-18 11:00:33 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:33 PROGRESS: Solver is running.
+2026-09-18 11:00:33 PROGRESS: Frequency Domain Solver (14) (Solver is running.)
+2026-09-18 11:00:33 INFORMATION: Sample 14 (465770 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:33 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:33 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:33 PROGRESS: . . .
+2026-09-18 11:00:33 PROGRESS: Frequency Domain Solver (14) (. . .)
+2026-09-18 11:00:33 PROGRESS: Setting up equation system
+2026-09-18 11:00:33 PROGRESS: 
+2026-09-18 11:00:33 PROGRESS: . . .
+2026-09-18 11:00:33 PROGRESS: Matrix factorization
+SPE: nSelected                        = 13
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12835
+SPE: nExtrapolationVectors            = 13
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (14):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (15):
+[=======================> ] 93 %                                 Sample 15 (485664 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (15):
+2026-09-18 11:00:34 PROGRESS: . . .
+2026-09-18 11:00:34 PROGRESS: Direct solver run
+2026-09-18 11:00:34 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:34 PROGRESS: . . .
+2026-09-18 11:00:34 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:34 PROGRESS: Solver is running.
+2026-09-18 11:00:34 PROGRESS: Frequency Domain Solver (15) (Solver is running.)
+2026-09-18 11:00:34 INFORMATION: Sample 15 (485664 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:34 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:34 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:34 PROGRESS: . . .
+2026-09-18 11:00:34 PROGRESS: Frequency Domain Solver (15) (. . .)
+2026-09-18 11:00:35 PROGRESS: Setting up equation system
+2026-09-18 11:00:35 PROGRESS: 
+2026-09-18 11:00:35 PROGRESS: . . .
+2026-09-18 11:00:35 PROGRESS: Matrix factorization
+SPE: nSelected                        = 14
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12878
+SPE: nExtrapolationVectors            = 14
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (15):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (16):
+[=======================> ] 93 %                                 Sample 16 (417691 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (16):
+2026-09-18 11:00:36 PROGRESS: . . .
+2026-09-18 11:00:36 PROGRESS: Direct solver run
+2026-09-18 11:00:36 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:36 PROGRESS: . . .
+2026-09-18 11:00:36 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:36 PROGRESS: Solver is running.
+2026-09-18 11:00:36 PROGRESS: Frequency Domain Solver (16) (Solver is running.)
+2026-09-18 11:00:36 INFORMATION: Sample 16 (417691 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:36 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:36 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:36 PROGRESS: . . .
+2026-09-18 11:00:36 PROGRESS: Frequency Domain Solver (16) (. . .)
+2026-09-18 11:00:36 PROGRESS: Setting up equation system
+2026-09-18 11:00:36 PROGRESS: 
+2026-09-18 11:00:36 PROGRESS: . . .
+2026-09-18 11:00:36 PROGRESS: Matrix factorization
+SPE: nSelected                        = 15
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13164
+SPE: nExtrapolationVectors            = 15
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (16):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (17):
+[=======================> ] 93 %                                 Sample 17 (729789 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (17):
+2026-09-18 11:00:37 PROGRESS: . . .
+2026-09-18 11:00:37 PROGRESS: Direct solver run
+2026-09-18 11:00:37 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:37 PROGRESS: . . .
+2026-09-18 11:00:37 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:38 PROGRESS: Solver is running.
+2026-09-18 11:00:38 PROGRESS: Frequency Domain Solver (17) (Solver is running.)
+2026-09-18 11:00:38 INFORMATION: Sample 17 (729789 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:38 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:38 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:38 PROGRESS: . . .
+2026-09-18 11:00:38 PROGRESS: Frequency Domain Solver (17) (. . .)
+2026-09-18 11:00:38 PROGRESS: Setting up equation system
+2026-09-18 11:00:38 PROGRESS: 
+2026-09-18 11:00:38 PROGRESS: . . .
+2026-09-18 11:00:38 PROGRESS: Matrix factorization
+SPE: nSelected                        = 16
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13207
+SPE: nExtrapolationVectors            = 16
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (17):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (18):
+[=======================> ] 93 %                                 Sample 18 (685026 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (18):
+2026-09-18 11:00:39 PROGRESS: . . .
+2026-09-18 11:00:39 PROGRESS: Direct solver run
+2026-09-18 11:00:39 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:39 PROGRESS: . . .
+2026-09-18 11:00:39 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:39 PROGRESS: Solver is running.
+2026-09-18 11:00:39 PROGRESS: Frequency Domain Solver (18) (Solver is running.)
+2026-09-18 11:00:39 INFORMATION: Sample 18 (685026 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:39 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:39 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:39 PROGRESS: . . .
+2026-09-18 11:00:39 PROGRESS: Frequency Domain Solver (18) (. . .)
+2026-09-18 11:00:39 PROGRESS: Setting up equation system
+2026-09-18 11:00:39 PROGRESS: 
+2026-09-18 11:00:39 PROGRESS: . . .
+2026-09-18 11:00:39 PROGRESS: Matrix factorization
+SPE: nSelected                        = 17
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12903
+SPE: nExtrapolationVectors            = 17
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (18):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (19):
+[=======================> ] 93 %                                 Sample 19 (764605 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (19):
+2026-09-18 11:00:41 PROGRESS: . . .
+2026-09-18 11:00:41 PROGRESS: Direct solver run
+2026-09-18 11:00:41 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:41 PROGRESS: . . .
+2026-09-18 11:00:41 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:41 PROGRESS: Solver is running.
+2026-09-18 11:00:41 PROGRESS: Frequency Domain Solver (19) (Solver is running.)
+2026-09-18 11:00:41 INFORMATION: Sample 19 (764605 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:41 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:41 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:41 PROGRESS: . . .
+2026-09-18 11:00:41 PROGRESS: Frequency Domain Solver (19) (. . .)
+2026-09-18 11:00:41 PROGRESS: Setting up equation system
+2026-09-18 11:00:41 PROGRESS: 
+2026-09-18 11:00:41 PROGRESS: . . .
+2026-09-18 11:00:41 PROGRESS: Matrix factorization
+SPE: nSelected                        = 18
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13151
+SPE: nExtrapolationVectors            = 18
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (19):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (20):
+[=======================> ] 93 %                                 Sample 20 (720671 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (20):
+2026-09-18 11:00:42 PROGRESS: . . .
+2026-09-18 11:00:42 PROGRESS: Direct solver run
+2026-09-18 11:00:42 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:43 PROGRESS: . . .
+2026-09-18 11:00:43 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:43 PROGRESS: Solver is running.
+2026-09-18 11:00:43 PROGRESS: Frequency Domain Solver (20) (Solver is running.)
+2026-09-18 11:00:43 INFORMATION: Sample 20 (720671 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:43 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:43 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:43 PROGRESS: . . .
+2026-09-18 11:00:43 PROGRESS: Frequency Domain Solver (20) (. . .)
+2026-09-18 11:00:43 PROGRESS: Setting up equation system
+2026-09-18 11:00:43 PROGRESS: 
+2026-09-18 11:00:43 PROGRESS: . . .
+2026-09-18 11:00:43 PROGRESS: Matrix factorization
+SPE: nSelected                        = 19
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13064
+SPE: nExtrapolationVectors            = 19
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (20):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (21):
+[=======================> ] 93 %                                 Sample 21 (566487 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (21):
+2026-09-18 11:00:44 PROGRESS: . . .
+2026-09-18 11:00:44 PROGRESS: Direct solver run
+2026-09-18 11:00:44 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:44 PROGRESS: . . .
+2026-09-18 11:00:44 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:44 PROGRESS: Solver is running.
+2026-09-18 11:00:44 PROGRESS: Frequency Domain Solver (21) (Solver is running.)
+2026-09-18 11:00:44 INFORMATION: Sample 21 (566487 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:44 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:44 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:44 PROGRESS: . . .
+2026-09-18 11:00:44 PROGRESS: Frequency Domain Solver (21) (. . .)
+2026-09-18 11:00:45 PROGRESS: Setting up equation system
+2026-09-18 11:00:45 PROGRESS: 
+2026-09-18 11:00:45 PROGRESS: . . .
+2026-09-18 11:00:45 PROGRESS: Matrix factorization
+SPE: nSelected                        = 20
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13004
+SPE: nExtrapolationVectors            = 20
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (21):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (22):
+[=======================> ] 93 %                                 Sample 22 (778697 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (22):
+2026-09-18 11:00:46 PROGRESS: . . .
+2026-09-18 11:00:46 PROGRESS: Direct solver run
+2026-09-18 11:00:46 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:46 PROGRESS: . . .
+2026-09-18 11:00:46 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:46 PROGRESS: Solver is running.
+2026-09-18 11:00:46 PROGRESS: Frequency Domain Solver (22) (Solver is running.)
+2026-09-18 11:00:46 INFORMATION: Sample 22 (778697 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:46 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:46 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:47 PROGRESS: . . .
+2026-09-18 11:00:47 PROGRESS: Frequency Domain Solver (22) (. . .)
+2026-09-18 11:00:47 PROGRESS: Setting up equation system
+2026-09-18 11:00:47 PROGRESS: 
+2026-09-18 11:00:47 PROGRESS: . . .
+2026-09-18 11:00:47 PROGRESS: Matrix factorization
+SPE: nSelected                        = 21
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13097
+SPE: nExtrapolationVectors            = 20
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (22):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (23):
+[=======================> ] 93 %                                 Sample 23 (751342 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (23):
+2026-09-18 11:00:48 PROGRESS: . . .
+2026-09-18 11:00:48 PROGRESS: Direct solver run
+2026-09-18 11:00:48 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:48 PROGRESS: . . .
+2026-09-18 11:00:48 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:48 PROGRESS: Solver is running.
+2026-09-18 11:00:48 PROGRESS: Frequency Domain Solver (23) (Solver is running.)
+2026-09-18 11:00:48 INFORMATION: Sample 23 (751342 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:48 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:48 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:48 PROGRESS: . . .
+2026-09-18 11:00:48 PROGRESS: Frequency Domain Solver (23) (. . .)
+2026-09-18 11:00:48 PROGRESS: Setting up equation system
+2026-09-18 11:00:48 PROGRESS: 
+2026-09-18 11:00:48 PROGRESS: . . .
+2026-09-18 11:00:48 PROGRESS: Matrix factorization
+SPE: nSelected                        = 21
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13030
+SPE: nExtrapolationVectors            = 20
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (23):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (24):
+[=======================> ] 93 %                                 Sample 24 (632388 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (24):
+2026-09-18 11:00:50 PROGRESS: . . .
+2026-09-18 11:00:50 PROGRESS: Direct solver run
+2026-09-18 11:00:50 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:50 PROGRESS: . . .
+2026-09-18 11:00:50 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:50 PROGRESS: Solver is running.
+2026-09-18 11:00:50 PROGRESS: Frequency Domain Solver (24) (Solver is running.)
+2026-09-18 11:00:50 INFORMATION: Sample 24 (632388 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:50 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:50 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:50 PROGRESS: . . .
+2026-09-18 11:00:50 PROGRESS: Frequency Domain Solver (24) (. . .)
+2026-09-18 11:00:50 PROGRESS: Setting up equation system
+2026-09-18 11:00:50 PROGRESS: 
+2026-09-18 11:00:50 PROGRESS: . . .
+2026-09-18 11:00:50 PROGRESS: Matrix factorization
+SPE: nSelected                        = 21
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13052
+SPE: nExtrapolationVectors            = 20
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=================>       ] 69 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (24):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (25):
+[=======================> ] 93 %                                 Sample 25 (391164 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (25):
+2026-09-18 11:00:52 PROGRESS: . . .
+2026-09-18 11:00:52 PROGRESS: Direct solver run
+2026-09-18 11:00:52 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:52 PROGRESS: . . .
+2026-09-18 11:00:52 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:52 PROGRESS: Solver is running.
+2026-09-18 11:00:52 PROGRESS: Frequency Domain Solver (25) (Solver is running.)
+2026-09-18 11:00:52 INFORMATION: Sample 25 (391164 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:52 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:52 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:52 PROGRESS: . . .
+2026-09-18 11:00:52 PROGRESS: Frequency Domain Solver (25) (. . .)
+2026-09-18 11:00:52 PROGRESS: Setting up equation system
+2026-09-18 11:00:52 PROGRESS: 
+2026-09-18 11:00:52 PROGRESS: . . .
+2026-09-18 11:00:52 PROGRESS: Matrix factorization
+SPE: nSelected                        = 21
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13116
+SPE: nExtrapolationVectors            = 20
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (25):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (26):
+[=======================> ] 93 %                                 Sample 26 (430125 GHz, Theta: 0, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (26):
+2026-09-18 11:00:54 PROGRESS: . . .
+2026-09-18 11:00:54 PROGRESS: Direct solver run
+2026-09-18 11:00:54 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:54 PROGRESS: . . .
+2026-09-18 11:00:54 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:54 PROGRESS: Solver is running.
+2026-09-18 11:00:54 PROGRESS: Frequency Domain Solver (26) (Solver is running.)
+2026-09-18 11:00:54 INFORMATION: Sample 26 (430125 GHz, Theta: 0, Phi: 0).
+2026-09-18 11:00:54 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:00:54 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:00:54 PROGRESS: . . .
+2026-09-18 11:00:54 PROGRESS: Frequency Domain Solver (26) (. . .)
+2026-09-18 11:00:54 PROGRESS: Setting up equation system
+2026-09-18 11:00:54 PROGRESS: 
+2026-09-18 11:00:54 PROGRESS: . . .
+2026-09-18 11:00:54 PROGRESS: Matrix factorization
+SPE: nSelected                        = 21
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12970
+SPE: nExtrapolationVectors            = 20
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (26):
+[=======================> ] 93 % [=========================] 100 % 
+All broadband sweep convergence criteria have been satisfied after calculating 26 frequency samples.
+Frequency Domain Solver (26):
+[>                        ] 0 % [=>                       ] 5 % [==>                      ] 10 % [===>                     ] 15 % [=====>                   ] 20 % [======>                  ] 25 % [=======>                 ] 30 % [========>                ] 34 % [==========>              ] 40 % [===========>             ] 44 % [============>            ] 50 % [=============>           ] 55 % [===============>         ] 60 % [================>        ] 64 % [=================>       ] 69 % [==================>      ] 75 % [====================>    ] 80 % [=====================>   ] 85 % [======================>  ] 89 % [=======================> ] 94 % [=========================] 100 % 
+WARNING: The material properties in Floquet port Zmin differ from those of the background. Some scan angle sweep farfield results will not be available for this port.
+2026-09-18 11:00:56 PROGRESS: . . .
+2026-09-18 11:00:56 PROGRESS: Direct solver run
+2026-09-18 11:00:56 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:00:56 PROGRESS: . . .
+2026-09-18 11:00:56 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:00:56 INFORMATION: All broadband sweep convergence criteria have been satisfied after calculating 26 frequency samples..
+2026-09-18 11:00:56 PROGRESS: Saving restart information
+2026-09-18 11:00:56 PROGRESS: . . .
+2026-09-18 11:00:56 WARNING: The material properties in Floquet port Zmin differ from those of the background. Some scan angle sweep farfield results will not be available for this port..
+INFORMATION: Results have been updated.
+2026-09-18 11:00:56 FINISHED: Return code = 1
+Running post-processing.
+Start solver <Solver_PP>
+socket ids from command line: 0
+This is /opt/cst/CST_Studio_Suite_2026/LinuxAMD64/Solver_PP_AMD64 build 2026.0 Release from 2025-08-29 (change 1465899)
+Caller build: Version 2026.0 Build: 20250829
+CPU Core number: 13
+
+Options:
+  - IPAddress                = 127.0.0.1:45685:3070458
+  - ProjectBaseName          = \home\yuxiao\Yuxiao Li\tandem\Filter_CST_DataGen_Share\parallel_work\w0\model2021_nk_model_multi_peaks.cst
+  - UserData                 = .json;219928284
+  - ApplicationPath          = /opt/cst/CST_Studio_Suite_2026
+  - VersionInfo              = 
+  - bMPIActive               = false
+mpi_info:
+  - MPINodeID                = -1
+Processor group: 0
+cpu device ids : 0
+Environment variable CST_PROCESS_AFFINITY defining process affinity is not set. --> OK
+
+Maximum number of threads allowed: 10
+Number of threads used: 10
+
+TreeNames:
+
+1D Results\S-Parameters\SZmin(1),Zmax(1)
+1D Results\S-Parameters\SZmin(2),Zmax(1)
+1D Results\S-Parameters\SZmax(1),Zmax(1)
+1D Results\S-Parameters\SZmax(2),Zmax(1)
+
+FileNames:
+
+Result/cSZmin(1)Zmax(1).sig
+Result/cSZmin(2)Zmax(1).sig
+Result/cSZmax(1)Zmax(1).sig
+Result/cSZmax(2)Zmax(1).sig
+2026-09-18 11:00:57 FINISHED: Return code = 1
+Modeler: Save project /home/yuxiao/Yuxiao Li/tandem/Filter_CST_DataGen_Share/parallel_work/w0/model2021_nk_model_multi_peaks.cst
+Schematic: Save project /home/yuxiao/Yuxiao Li/tandem/Filter_CST_DataGen_Share/parallel_work/w0/model2021_nk_model_multi_peaks.cst includeResults=1 autosave=0
+Post-processing finished.
+Creating parametric 1D results for Run ID 1
+Start solver <Solver_PP>
+socket ids from command line: 0
+This is /opt/cst/CST_Studio_Suite_2026/LinuxAMD64/Solver_PP_AMD64 build 2026.0 Release from 2025-08-29 (change 1465899)
+Caller build: Version 2026.0 Build: 20250829
+CPU Core number: 13
+
+Options:
+  - IPAddress                = 127.0.0.1:38065:3070458
+  - ProjectBaseName          = \home\yuxiao\Yuxiao Li\tandem\Filter_CST_DataGen_Share\parallel_work\w0\model2021_nk_model_multi_peaks.cst
+  - UserData                 = .json;178227462
+  - ApplicationPath          = /opt/cst/CST_Studio_Suite_2026
+  - VersionInfo              = 
+  - bMPIActive               = false
+mpi_info:
+  - MPINodeID                = -1
+Processor group: 0
+cpu device ids : 0
+Environment variable CST_PROCESS_AFFINITY defining process affinity is not set. --> OK
+
+Maximum number of threads allowed: 10
+Number of threads used: 10
+Post-Processing:
+2026-09-18 11:00:58 PROGRESS: Creating parametric 1D results.
+2026-09-18 11:00:58 FINISHED: Return code = 1
+Modeler: Save project /home/yuxiao/Yuxiao Li/tandem/Filter_CST_DataGen_Share/parallel_work/w0/model2021_nk_model_multi_peaks.cst
+[>                        ] 0 % [>                        ] 0 % [>                        ] 1 % [>                        ] 2 % [=>                       ] 3 % [=>                       ] 5 % [=>                       ] 5 % [=>                       ] 7 % [==>                      ] 7 % [==>                      ] 9 % [==>                      ] 10 % [==>                      ] 10 % [===>                     ] 11 % [===>                     ] 12 % [===>                     ] 14 % [===>                     ] 15 % [====>                    ] 15 % [====>                    ] 17 % [====>                    ] 18 % [====>                    ] 18 % [=====>                   ] 20 % [=====>                   ] 20 % [=====>                   ] 23 % [======>                  ] 23 % [======>                  ] 25 % [======>                  ] 25 % [======>                  ] 27 % [=======>                 ] 28 % [=======>                 ] 28 % [=======>                 ] 30 % [=======>                 ] 31 % [========>                ] 31 % [========>                ] 33 % [========>                ] 34 % [========>                ] 34 % [=========>               ] 36 % [=========>               ] 37 % [=========>               ] 37 % [=========>               ] 38 % [==========>              ] 40 % [==========>              ] 40 % [==========>              ] 41 % [==========>              ] 43 % [===========>             ] 44 % [============>            ] 50 % [======================>  ] 89 % [=========================] 100 % 
+WARNING: 2 warnings occurred.
+Finished!
+Schematic: Save project /home/yuxiao/Yuxiao Li/tandem/Filter_CST_DataGen_Share/parallel_work/w0/model2021_nk_model_multi_peaks.cst includeResults=1 autosave=0
+TRACE: CST::Exception: Illegal usage of S-Matrix, No impedance found
+TRACE: CST::Exception: Illegal usage of S-Matrix, No impedance found
+You are working in interactive mode.
+You are working in interactive mode.
+id=00002 R=4.6284747124 n_host1=1.6201324463 n_host2=2.3012211323 theta=30
+Modeler finished successfully
+All files and subdirectories in the Result folder have been deleted.
+This is the modeler 2026.0 Release from 2025-08-29 (change 1465899)
+Startup: 18.09.2026 11:01:04
+Process id: 3074555
+Path: /opt/cst/CST_Studio_Suite_2026/LinuxAMD64/modeler_amd64.exe
+CPU Core number: 13
+Interactive run=1
+Modeler openmp threads: 10
+Parallel ACIS is active. Starting 10 worker threads for ACIS.
+This is the schematic 2026.0 Release from 2025-08-29 (change 1465899)
+Startup: 18.09.2026 11:01:04
+Process id: 3074714
+Path: /opt/cst/CST_Studio_Suite_2026/LinuxAMD64/schematic_amd64.exe
+Interactive run=1
+Project name: /home/yuxiao/Yuxiao Li/tandem/Filter_CST_DataGen_Share/parallel_work/w0/model2021_nk_model_multi_peaks.cst
+Project name: /home/yuxiao/Yuxiao Li/tandem/Filter_CST_DataGen_Share/parallel_work/w0/model2021_nk_model_multi_peaks.cst
+Update history
+Solver:
+[>                        ] 0 % [=========================] 100 % 
+Monitors will not be calculated because of the corresponding option in the solver dialog box.
+WARNING: The excitation of the Floquet or periodic port modes at Zmax corresponds to the opposite direction as compared to the scan angle definition in the boundary conditions dialog. To excite a plane wave with the given scan angle at Zmax, please change the direction in the aforementioned dialog to "inward".
+Frequency Domain Solver:
+[>                        ] 0 % [=========================] 100 % 
+Collecting features:
+Start solver <TetMesh>
+socket ids from command line: 0
+This is /opt/cst/CST_Studio_Suite_2026/LinuxAMD64/TetMesh_AMD64 build 2026.0 Release from 2025-08-29 (change 1465899)
+Caller build: Version 2026.0 Build: 20250829
+CPU Core number: 13
+
+Options:
+  - IPAddress                = 127.0.0.1:47499:3074555
+  - ProjectBaseName          = \home\yuxiao\Yuxiao Li\tandem\Filter_CST_DataGen_Share\parallel_work\w0\model2021_nk_model_multi_peaks.cst
+  - UserData                 = [MesherCmdCode][--code vsbdi0]
+  - ApplicationPath          = /opt/cst/CST_Studio_Suite_2026
+  - VersionInfo              = 
+  - bMPIActive               = false
+mpi_info:
+  - MPINodeID                = -1
+Processor group: 0
+cpu device ids : 0
+Environment variable CST_PROCESS_AFFINITY defining process affinity is not set. --> OK
+
+[>                        ] 0 % [=========================] 100 % [>                        ] 0 % [==>                      ] 10 % [=====>                   ] 20 % [=======>                 ] 30 % [==========>              ] 40 % [============>            ] 50 % [===============>         ] 60 % [=================>       ] 69 % [====================>    ] 80 % [======================>  ] 89 % [=========================] 100 % [>                        ] 0 % [>                        ] 2 % [=>                       ] 5 % [==>                      ] 7 % [==>                      ] 10 % [===>                     ] 14 % [====>                    ] 17 % [====>                    ] 18 % [=====>                   ] 21 % [======>                  ] 25 % [========>                ] 34 % [==========>              ] 40 % [===========>             ] 44 % [=========================] 100 % 
+Creating Tetrahedral Mesh:
+2026-09-18 11:01:08 PROGRESS: Mesher initialization
+Build Number: 20250829; ID: 2026.0 Release from 2025-08-29 (change 1465899); Date: 2025-08-29; ACIS version: 35.0.0, SPAresabs & SPAresnor: 1e-06, 1e-10; Problem class: High Frequency
+Temporary directory: "/home/yuxiao/Yuxiao Li/tandem/Filter_CST_DataGen_Share/parallel_work/w0/model2021_nk_model_multi_peaks/Temp/1-temp.tet"
+2026-09-18 11:01:08 PROGRESS: Starting
+- Reading information
+- Building single body
+2026-09-18 11:01:08 PROGRESS: Assembling model (Starting)
+2026-09-18 11:01:08 PROGRESS: Assembling model (Intersection check)
+2026-09-18 11:01:08 PROGRESS: Assembling model (Booleans)
+Found 40 faces.
+Choosing Advanced Boolean Loop...
+Volume Attributes enabled
+Attaching Volume Attributes
+Sorted out 4 special bodies.
+Processing 7 entities.
+Queue Size: 1
+Combining solid component1:Particle_First and solid component1:Particle_Second (Pair #1 out of 3)
+Combining solid component1:Particle_Fouth and solid component1:Particle_Third (Pair #2 out of 3)
+Combining solid component1:Host material_1 and solid component1:substrate_glass (Pair #3 out of 3)
+Processing 4 entities.
+Queue Size: 1
+Combining Compound Body and Compound Body (Pair #1 out of 2)
+Adding Compound Body to solid component1:Host_material_2 (Pair #2 out of 2)
+Processing 2 entities.
+Queue Size: 1
+Adding Compound Body to Compound Body (Pair #1 out of 1)
+Exiting Boolean Unite Module.
+Added Compound Body (ID: 119, 115, 113, 117, 121, 55, 84) to model
+Added background layer (ID: 1) to model
+Added background material (ID: 28) to model
+Added waveguide port (Floquet) at Zmin (ID: 148) to model
+Added waveguide port (Floquet) at Zmax (ID: 158) to model
+2026-09-18 11:01:08 PROGRESS: Assembling model (Finishing)
+2026-09-18 11:01:08 PROGRESS: Assembling model
+- Storing model cells
+2026-09-18 11:01:08 PROGRESS: Surface meshing
+[CADSurf] MeshGems Version: MeshGems-Core 2025 1.0.0
+[CADSurf] Setting Triangle as default element type
+[CADSurf] 	Calculating min. mesh size for CADSurf...
+[CADSurf] 	Diagonal of model + background box: 2513.52
+[CADSurf] 	Min. mesh size by diagonal (1e-3 x diagonal): 2.51352
+[CADSurf] 	Diagonal of model: 1373.56
+[CADSurf] 	Min. mesh size of model: 0.925695
+[CADSurf] 	Max. cell defined by user (near to model): 75.9474
+[CADSurf] 	Min. cell defined by user: 0
+[CADSurf] 	Min. cell used for calculation: 0.759474
+[CADSurf] 	Note: min. mesh size by diagonal is too large, consider using (0.01 x max. cell = 0.759474)
+[CADSurf] CADSurf "min_size" is set to min. cell: 0.759474
+[CADSurf] 	 Max user size    = 1.8986855040000006e+02
+[CADSurf] 	 Surface mesh size modification factor  = 1.0000000000000000e+00
+[CADSurf] 	 Global size near = 7.5947420160000036e+01
+[CADSurf] 	 Global size far  = 1.8986855040000006e+02
+[CADSurf] == CADSurf Parameters == 
+[CADSurf] === Begin: PreCAD-related parameters ===
+[CADSurf] meshgems_cadsurf_set_param(css, "use_precad",  "yes")
+[CADSurf] Bounding box diagonal = 2.5135172173564470e+03
+[CADSurf] meshgems_cadsurf_set_param(css, "remove_nano_edges",  "0")
+[CADSurf] meshgems_cadsurf_set_param(css, "discard_input_topology",  "0")
+[CADSurf] meshgems_cadsurf_set_param(css, "process_3d_topology",  "0")
+[CADSurf] meshgems_cadsurf_set_param(css, "discard_input_2d_topology",  "0")
+[CADSurf] Default periodic tolerance (1e-4*diag) = 2.5135172173564468e-01
+[CADSurf] Minimum periodic tolerance = 1.0000000000000001e-05
+[CADSurf] Setting it to max( 1.0000000000000001e-05, 2.5135172173564468e-01 )
+[CADSurf] meshgems_cadsurf_set_param(css, "periodic_tolerance",  "0.25135172173564468")
+[CADSurf] meshgems_cadsurf_set_param(css, "remove_duplicate_cad_faces",  "0")
+[CADSurf] meshgems_cadsurf_set_param(css, "remove_tiny_uv_edges",  "0")
+[CADSurf] === End: PreCAD-related parameters ===
+[CADSurf] meshgems_cadsurf_set_param(css, "verbose",  "3")
+[CADSurf] meshgems_cadsurf_set_param(css, "geometric_size_mode",  "local")
+[CADSurf] meshgems_cadsurf_set_param(css, "physical_size_mode",  "local")
+[CADSurf] 	 Upper size bound = 1.8986855040000006e+02
+[CADSurf] meshgems_cadsurf_set_param(css, "max_size",  "189.86855040000006")
+[CADSurf] meshgems_cadsurf_set_param(css, "min_size",  "0.75947420160000034")
+[CADSurf] meshgems_cadsurf_set_param(css, "max_number_of_points_per_patch",  "0")
+[CADSurf] meshgems_cadsurf_set_param(css, "element_generation",  "local")
+[CADSurf] meshgems_cadsurf_set_param(css, "gradation",  "1.5")
+[CADSurf] meshgems_cadsurf_set_param(css, "volume_gradation",  "2")
+[CADSurf] meshgems_cadsurf_set_param(css, "patch_independent",  "0")
+[CADSurf] meshgems_cadsurf_set_param(css, "remove_tiny_edges",  "0")
+[CADSurf] meshgems_cadsurf_set_param(css, "optimise_tiny_edges",  "0")
+[CADSurf] meshgems_cadsurf_set_param(css, "tiny_edge_respect_geometry",  "1")
+[CADSurf] meshgems_cadsurf_set_param(css, "CheckWellDefined",  "8")
+[CADSurf] meshgems_cadsurf_set_param(css, "anisotropic",  "1")
+[CADSurf] meshgems_cadsurf_set_param(css, "anisotropic_ratio",  "5")
+[CADSurf] meshgems_cadsurf_set_param(css, "correct_surface_intersections",  "1")
+[CADSurf] meshgems_cadsurf_set_param(css, "intersection_processing_max_cost",  "15")
+[CADSurf] ==
+[CADSurf] Geometric refinement uses "min_size" setting.
+[CADSurf] Status: OK
+[CADSurf] Number of intersecting edges: 0, total edge count: 226
+[CADSurf] Number of intersecting faces: 0
+[CADSurf] - Mesh stats: N=1844, E=226, T=3694, Q=0
+[CADSurf] Testing watertightness
+[CADSurf] - OK
+Surface mesh intersection check
+- surface mesh is free from self-intersections
+- OK
+Srf mesh has intersections = false
+runCVMResilient Flag = false
+enforceCVMResilient = false
+runCVMResilient = false
+Creating volume mesh from surface mesh
+[SrfToVol] Running CVM
+[SrfToVol] Surface to volume mesh: verifying input data
+[SrfToVol] 
+[SrfToVol] Generate volume mesh for 9 subdomains using 10 threads 
+ 
+2026-09-18 11:01:08 PROGRESS: Volume meshing (Meshing subdomains)
+2026-09-18 11:01:08 PROGRESS: Volume meshing
+[SrfToVol] Assembling volume mesh
+[SrfToVol] Volume mesh generated - Status = ok
+[SrfToVol] - Volume mesh stats: Nb nodes = 4652, Nb edges = 226, Nb surface elements = 3694, Nb tets = 25814
+2026-09-18 11:01:08 PROGRESS: Postprocessing
+Creating mesh topology.
+Using mesh topology.
+Writing ACIS sat.tet file because UIDs may have changed.
+2026-09-18 11:01:08 PROGRESS: Finishing
+Using generalized mesh output routines.
+Writing Bc file
+Running model geometry simplification... 
+Model geometry simplification: 0.000101 s
+Writing topot.tet...
+Done (topot.tet)
+Writing moegeom.tet ...
+Done (moegeom.tet) 
+Writing gex file for volume mesh
+Creating volume mesh from surface mesh - done
+Mesh curving:
+    number of threads: 10
+Curving elements
+2026-09-18 11:01:08 PROGRESS: Curving mesh
+2026-09-18 11:01:08 PROGRESS: Mesh curving
+ Curve elements, order = 3
+
+Running ConnectivityCheck ...
+Connectivity Check: Mesh I/O took 0.013092 seconds.
+Connectivity Check: Computation took 0.000379 seconds.
+Running ConnectivityCheck ... done
+2026-09-18 11:01:09 INFORMATION: Meshing successful.
+Feedback: Writing the full feedback report in log.tet ...
+
+#### Feedback Report Begins ####
+#### Feedback Report Ends ####
+
+... done.
+Feedback: Removing previously generated graphical feedback file ...
+... done.
+Inserting graphical feedback in the Axg Object...
+... done.
+Feedback: Writing the Axg Object to disk ...
+... done.
+Feedback: Writing the frontend feedback report ...
+Feedback: Registering the Axg file in the result manager ...
+[>                        ] 0 % [>                        ] 0 % [>                        ] 1 % [=>                       ] 5 % [=>                       ] 7 % [==>                      ] 7 % [==>                      ] 10 % [==>                      ] 10 % [===>                     ] 11 % [===>                     ] 12 % [===>                     ] 14 % [===>                     ] 15 % [====>                    ] 15 % [====>                    ] 17 % [====>                    ] 18 % [====>                    ] 18 % [=====>                   ] 20 % [=====>                   ] 20 % [=====>                   ] 21 % [=====>                   ] 23 % [======>                  ] 23 % [======>                  ] 25 % [======>                  ] 25 % [=======>                 ] 28 % [=======>                 ] 31 % [========>                ] 34 % [========>                ] 34 % [=========>               ] 36 % [=========>               ] 37 % [=========>               ] 37 % [=========>               ] 38 % [==========>              ] 40 % [==========>              ] 40 % [==========>              ] 41 % [==========>              ] 43 % [===========>             ] 43 % [===========>             ] 44 % [===========>             ] 46 % [============>            ] 47 % [============>            ] 50 % [=============>           ] 51 % [=============>           ] 52 % [=============>           ] 54 % [=============>           ] 55 % [==============>          ] 56 % [==============>          ] 56 % [==============>          ] 57 % [==============>          ] 58 % [===============>         ] 60 % [===============>         ] 61 % [===============>         ] 62 % [================>        ] 63 % [================>        ] 66 % [=================>       ] 68 % [=================>       ] 68 % [=================>       ] 70 % [==================>      ] 74 % [==================>      ] 75 % [===================>     ] 77 % [=====================>   ] 83 % [=====================>   ] 86 % [=====================>   ] 87 % [======================>  ] 89 % [=========================] 100 % 
+Meshing successful
+... done.
+Done
+2026-09-18 11:01:09 FINISHED: Return code = 1
+Creating Tetrahedral Mesh:
+Start solver <Solver_HF_Tet_FD>
+socket ids from command line: 0
+This is /opt/cst/CST_Studio_Suite_2026/LinuxAMD64/Solver_HF_Tet_FD_AMD64 build 2026.0 Release from 2025-08-29 (change 1465899)
+Caller build: Version 2026.0 Build: 20250829
+CPU Core number: 13
+
+Options:
+  - IPAddress                = 127.0.0.1:57101:3074555
+  - ProjectBaseName          = \home\yuxiao\Yuxiao Li\tandem\Filter_CST_DataGen_Share\parallel_work\w0\model2021_nk_model_multi_peaks.cst
+  - UserData                 = .json;178227462
+  - ApplicationPath          = /opt/cst/CST_Studio_Suite_2026
+  - VersionInfo              = 
+  - bMPIActive               = false
+mpi_info:
+  - MPINodeID                = -1
+Processor group: 0
+cpu device ids : 0
+Environment variable CST_PROCESS_AFFINITY defining process affinity is not set. --> OK
+
+[>                        ] 0 %                                Frequency Domain Solver:
+[>                        ] 0 %                                WARNING: The mesh adaptation has been deactivated. It is strongly recommended to enable the mesh adaptation for the tetrahedral mesh unless the problem is very large.
+[>                        ] 0 %                                An iterative solver will be used first.
+[>                        ] 0 % [===>                     ] 15 %                                 Frequency Domain Solver:
+[===>                     ] 15 %                                 The low frequency stabilization is not applied to periodic problems.
+[===>                     ] 15 %                                 Frequency Domain Solver:
+[===>                     ] 15 %                                 Frequency Domain Solver (1):
+[===>                     ] 15 %                                 Sample 1 (789474 GHz, Theta: 30, Phi: 0)
+[===>                     ] 15 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                The material in port Zmin differs from the background material. Therefore, the port modes correspond to theta = 19.2049 degrees (instead of theta = 30 degrees).
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (1):
+[>                        ] 0 % [====>                    ] 18 % [==========>              ] 40 % [=========>               ] 38 % [============>            ] 50 % [===============>         ] 60 % [==============>          ] 58 %                                 Excitation: port Zmax, mode 1
+2026-09-18 11:01:09 PROGRESS: Frequency Domain Solver ()
+2026-09-18 11:01:09 PROGRESS: Initializing 1D results...
+2026-09-18 11:01:09 PROGRESS: ...
+2026-09-18 11:01:09 WARNING: The mesh adaptation has been deactivated. It is strongly recommended to enable the mesh adaptation for the tetrahedral mesh unless the problem is very large..
+2026-09-18 11:01:09 INFORMATION: An iterative solver will be used first..
+2026-09-18 11:01:09 PROGRESS: . . .
+2026-09-18 11:01:09 INFORMATION: The low frequency stabilization is not applied to periodic problems..
+2026-09-18 11:01:09 PROGRESS: Solver is running.
+2026-09-18 11:01:09 PROGRESS: Frequency Domain Solver (1) (Solver is running.)
+2026-09-18 11:01:09 INFORMATION: Sample 1 (789474 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:01:09 PROGRESS: Port Mode Solver (1) (Solver is running.)
+2026-09-18 11:01:09 INFORMATION: The material in port Zmin differs from the background material. Therefore, the port modes correspond to theta = 19.2049 degrees (instead of theta = 30 degrees)..
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:01:09 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:01:09 PROGRESS: Frequency Domain Solver (1) (Solver is running.)
+2026-09-18 11:01:09 PROGRESS: Initializing solver
+INFORMATION: Bad element list has been updated.
+2026-09-18 11:01:09 PROGRESS: Creating degrees of freedom
+2026-09-18 11:01:09 PROGRESS: . . .
+2026-09-18 11:01:09 PROGRESS: Setting up equation system
+2026-09-18 11:01:10 PROGRESS: . . .
+2026-09-18 11:01:10 PROGRESS: Setting up equation system
+2026-09-18 11:01:10 PROGRESS: 
+2026-09-18 11:01:10 PROGRESS: . . .
+2026-09-18 11:01:10 PROGRESS: Iterative solver setup
+2026-09-18 11:01:12 PROGRESS: . . .
+2026-09-18 11:01:12 PROGRESS: Iterative solver run
+2026-09-18 11:01:12 INFORMATION: Excitation: port Zmax, mode 1.
+Block-QMR(25): 0.000181339
+[==============>          ] 58 % [================>        ] 67 % [==================>      ] 72 % [==================>      ] 73 % [===================>     ] 77 % [====================>    ] 81 % [====================>    ] 81 % [=====================>   ] 85 % [======================>  ] 89 % [======================>  ] 91 % [=======================> ] 92 % [=======================> ] 93 % [=======================> ] 94 % [========================>] 95 % [========================>] 97 % [=========================] 100 % [==============>          ] 58 %                                 Frequency Domain Solver (1):
+[==============>          ] 58 % [=========================] 100 % [========================>] 99 % [=========================] 100 % [========================>] 99 %                                 Frequency Domain Solver (2):
+[========================>] 99 %                                 Sample 2 (375000 GHz, Theta: 30, Phi: 0)
+[========================>] 99 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (2):
+2026-09-18 11:01:18 PROGRESS: . . .
+2026-09-18 11:01:18 PROGRESS: 
+2026-09-18 11:01:19 PROGRESS: Saving S-Parameter plots
+2026-09-18 11:01:19 PROGRESS: . . .
+2026-09-18 11:01:19 PROGRESS:  
+INFORMATION: Results have been updated.
+2026-09-18 11:01:19 PROGRESS: Solver is running.
+2026-09-18 11:01:19 PROGRESS: Frequency Domain Solver (2) (Solver is running.)
+2026-09-18 11:01:19 INFORMATION: Sample 2 (375000 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:01:19 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:01:19 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:01:19 PROGRESS: . . .
+2026-09-18 11:01:19 PROGRESS: Frequency Domain Solver (2) (. . .)
+2026-09-18 11:01:19 PROGRESS: Setting up equation system
+2026-09-18 11:01:19 PROGRESS: 
+2026-09-18 11:01:19 PROGRESS: . . .
+2026-09-18 11:01:19 PROGRESS: Iterative solver setup
+SPE: nSelected                        = 1
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13116
+SPE: nExtrapolationVectors            = 1
+[>                        ] 0 % [======>                  ] 25 % [=========>               ] 38 % [============>            ] 50 %                                 Excitation: port Zmax, mode 1
+2026-09-18 11:01:21 PROGRESS: . . .
+2026-09-18 11:01:21 PROGRESS: Iterative solver run
+2026-09-18 11:01:21 INFORMATION: Excitation: port Zmax, mode 1.
+Block-QMR(25): 0.000636215
+[============>            ] 50 % [=================>       ] 68 % [=================>       ] 70 % [==================>      ] 73 % [==================>      ] 74 % [==================>      ] 75 % [===================>     ] 75 % [===================>     ] 76 % [===================>     ] 77 % [===================>     ] 79 % [====================>    ] 80 % [====================>    ] 81 % [=====================>   ] 83 % [=====================>   ] 86 % [======================>  ] 88 % [=======================> ] 93 % [=======================> ] 94 % [========================>] 95 % [=========================] 100 % [============>            ] 50 %                                 Frequency Domain Solver (2):
+[============>            ] 50 % [=========================] 100 % [============>            ] 50 %                                 Frequency Domain Solver (3):
+[============>            ] 50 %                                 Sample 3 (582237 GHz, Theta: 30, Phi: 0)
+[============>            ] 50 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (3):
+2026-09-18 11:01:29 PROGRESS: . . .
+2026-09-18 11:01:29 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:01:29 PROGRESS: Solver is running.
+2026-09-18 11:01:29 PROGRESS: Frequency Domain Solver (3) (Solver is running.)
+2026-09-18 11:01:29 INFORMATION: Sample 3 (582237 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:01:29 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:01:29 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:01:29 PROGRESS: . . .
+2026-09-18 11:01:29 PROGRESS: Frequency Domain Solver (3) (. . .)
+2026-09-18 11:01:30 PROGRESS: Setting up equation system
+2026-09-18 11:01:30 PROGRESS: 
+2026-09-18 11:01:30 PROGRESS: . . .
+2026-09-18 11:01:30 PROGRESS: Iterative solver setup
+SPE: nSelected                        = 2
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13027
+SPE: nExtrapolationVectors            = 2
+[>                        ] 0 % [======>                  ] 25 % [==========>              ] 40 % [============>            ] 50 %                                 Excitation: port Zmax, mode 1
+2026-09-18 11:01:31 PROGRESS: . . .
+2026-09-18 11:01:31 PROGRESS: Iterative solver run
+2026-09-18 11:01:31 INFORMATION: Excitation: port Zmax, mode 1.
+Block-QMR(25): 0.0115932
+Block-QMR(50): 0.00161728
+Block-QMR(75): 0.000633544
+Block-QMR(100): 0.000250672
+[============>            ] 50 % [==============>          ] 57 % [==============>          ] 58 % [===============>         ] 60 % [===============>         ] 61 % [===============>         ] 62 % [================>        ] 63 % [================>        ] 64 % [================>        ] 66 % [================>        ] 67 % [=================>       ] 68 % [=================>       ] 68 % [=================>       ] 69 % [=================>       ] 70 % [==================>      ] 72 % [==================>      ] 73 % [==================>      ] 74 % [==================>      ] 75 % [===================>     ] 75 % [===================>     ] 76 % [===================>     ] 77 % [===================>     ] 79 % [====================>    ] 80 % [====================>    ] 81 % [====================>    ] 81 % [====================>    ] 82 % [=====================>   ] 83 % [=====================>   ] 85 % [=====================>   ] 86 % [=====================>   ] 87 % [======================>  ] 87 % [======================>  ] 88 % [======================>  ] 91 % [=======================> ] 92 % [=======================> ] 93 % [=======================> ] 93 % [=======================> ] 94 % [========================>] 95 % [========================>] 97 % [========================>] 99 % [=========================] 100 % [============>            ] 50 %                                 Frequency Domain Solver (3):
+[============>            ] 50 % [=========================] 100 % 
+The direct solver will be used.
+[============>            ] 50 %                                 Frequency Domain Solver (3):
+[============>            ] 50 %                                 Frequency Domain Solver (4):
+[============>            ] 50 %                                 Sample 4 (725645 GHz, Theta: 30, Phi: 0)
+[============>            ] 50 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (4):
+2026-09-18 11:01:55 PROGRESS: . . .
+2026-09-18 11:01:55 INFORMATION: The direct solver will be used..
+2026-09-18 11:01:55 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:01:55 PROGRESS: Solver is running.
+2026-09-18 11:01:55 PROGRESS: Frequency Domain Solver (4) (Solver is running.)
+2026-09-18 11:01:55 INFORMATION: Sample 4 (725645 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:01:55 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:01:55 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:01:55 PROGRESS: . . .
+2026-09-18 11:01:55 PROGRESS: Frequency Domain Solver (4) (. . .)
+2026-09-18 11:01:55 PROGRESS: Setting up equation system
+2026-09-18 11:01:56 PROGRESS: . . .
+2026-09-18 11:01:56 PROGRESS: Setting up equation system
+2026-09-18 11:01:56 PROGRESS: 
+2026-09-18 11:01:56 PROGRESS: . . .
+2026-09-18 11:01:56 PROGRESS: Matrix factorization
+SPE: nSelected                        = 3
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13249
+SPE: nExtrapolationVectors            = 3
+[>                        ] 0 % [=====>                   ] 20 % [==========>              ] 43 % [==========>              ] 41 % [=======================> ] 94 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (4):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (5):
+[=======================> ] 93 %                                 Sample 5 (516336 GHz, Theta: 30, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (5):
+2026-09-18 11:01:58 PROGRESS: . . .
+2026-09-18 11:01:58 PROGRESS: Direct solver run
+2026-09-18 11:01:58 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:01:58 PROGRESS: . . .
+2026-09-18 11:01:58 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:01:58 PROGRESS: Solver is running.
+2026-09-18 11:01:58 PROGRESS: Frequency Domain Solver (5) (Solver is running.)
+2026-09-18 11:01:58 INFORMATION: Sample 5 (516336 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:01:58 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:01:58 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:01:58 PROGRESS: . . .
+2026-09-18 11:01:58 PROGRESS: Frequency Domain Solver (5) (. . .)
+2026-09-18 11:01:58 PROGRESS: Setting up equation system
+2026-09-18 11:01:58 PROGRESS: 
+2026-09-18 11:01:58 PROGRESS: . . .
+2026-09-18 11:01:58 PROGRESS: Matrix factorization
+SPE: nSelected                        = 4
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13383
+SPE: nExtrapolationVectors            = 4
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (5):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (6):
+[=======================> ] 93 %                                 Sample 6 (702020 GHz, Theta: 30, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (6):
+2026-09-18 11:01:59 PROGRESS: . . .
+2026-09-18 11:01:59 PROGRESS: Direct solver run
+2026-09-18 11:01:59 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:01:59 PROGRESS: . . .
+2026-09-18 11:01:59 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:01:59 PROGRESS: Solver is running.
+2026-09-18 11:01:59 PROGRESS: Frequency Domain Solver (6) (Solver is running.)
+2026-09-18 11:01:59 INFORMATION: Sample 6 (702020 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:01:59 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:01:59 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:01:59 PROGRESS: . . .
+2026-09-18 11:01:59 PROGRESS: Frequency Domain Solver (6) (. . .)
+2026-09-18 11:01:59 PROGRESS: Setting up equation system
+2026-09-18 11:01:59 PROGRESS: 
+2026-09-18 11:01:59 PROGRESS: . . .
+2026-09-18 11:01:59 PROGRESS: Matrix factorization
+SPE: nSelected                        = 5
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13405
+SPE: nExtrapolationVectors            = 5
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (6):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (7):
+[=======================> ] 93 %                                 Sample 7 (504316 GHz, Theta: 30, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (7):
+2026-09-18 11:02:00 PROGRESS: . . .
+2026-09-18 11:02:00 PROGRESS: Direct solver run
+2026-09-18 11:02:00 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:02:00 PROGRESS: . . .
+2026-09-18 11:02:00 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:02:00 PROGRESS: Solver is running.
+2026-09-18 11:02:00 PROGRESS: Frequency Domain Solver (7) (Solver is running.)
+2026-09-18 11:02:00 INFORMATION: Sample 7 (504316 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:02:00 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:02:00 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:02:01 PROGRESS: . . .
+2026-09-18 11:02:01 PROGRESS: Frequency Domain Solver (7) (. . .)
+2026-09-18 11:02:01 PROGRESS: Setting up equation system
+2026-09-18 11:02:01 PROGRESS: 
+2026-09-18 11:02:01 PROGRESS: . . .
+2026-09-18 11:02:01 PROGRESS: Matrix factorization
+SPE: nSelected                        = 6
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13296
+SPE: nExtrapolationVectors            = 6
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (7):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (8):
+[=======================> ] 93 %                                 Sample 8 (542862 GHz, Theta: 30, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (8):
+2026-09-18 11:02:02 PROGRESS: . . .
+2026-09-18 11:02:02 PROGRESS: Direct solver run
+2026-09-18 11:02:02 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:02:02 PROGRESS: . . .
+2026-09-18 11:02:02 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:02:02 PROGRESS: Solver is running.
+2026-09-18 11:02:02 PROGRESS: Frequency Domain Solver (8) (Solver is running.)
+2026-09-18 11:02:02 INFORMATION: Sample 8 (542862 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:02:02 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:02:02 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:02:02 PROGRESS: . . .
+2026-09-18 11:02:02 PROGRESS: Frequency Domain Solver (8) (. . .)
+2026-09-18 11:02:02 PROGRESS: Setting up equation system
+2026-09-18 11:02:02 PROGRESS: 
+2026-09-18 11:02:02 PROGRESS: . . .
+2026-09-18 11:02:02 PROGRESS: Matrix factorization
+SPE: nSelected                        = 7
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13173
+SPE: nExtrapolationVectors            = 7
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=================>       ] 69 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (8):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (9):
+[=======================> ] 93 %                                 Sample 9 (769993 GHz, Theta: 30, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (9):
+2026-09-18 11:02:03 PROGRESS: . . .
+2026-09-18 11:02:03 PROGRESS: Direct solver run
+2026-09-18 11:02:03 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:02:03 PROGRESS: . . .
+2026-09-18 11:02:03 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:02:04 PROGRESS: Solver is running.
+2026-09-18 11:02:04 PROGRESS: Frequency Domain Solver (9) (Solver is running.)
+2026-09-18 11:02:04 INFORMATION: Sample 9 (769993 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:02:04 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:02:04 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:02:04 PROGRESS: . . .
+2026-09-18 11:02:04 PROGRESS: Frequency Domain Solver (9) (. . .)
+2026-09-18 11:02:04 PROGRESS: Setting up equation system
+2026-09-18 11:02:04 PROGRESS: 
+2026-09-18 11:02:04 PROGRESS: . . .
+2026-09-18 11:02:04 PROGRESS: Matrix factorization
+SPE: nSelected                        = 8
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13223
+SPE: nExtrapolationVectors            = 8
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (9):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (10):
+[=======================> ] 93 %                                 Sample 10 (718184 GHz, Theta: 30, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (10):
+2026-09-18 11:02:05 PROGRESS: . . .
+2026-09-18 11:02:05 PROGRESS: Direct solver run
+2026-09-18 11:02:05 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:02:05 PROGRESS: . . .
+2026-09-18 11:02:05 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:02:05 PROGRESS: Solver is running.
+2026-09-18 11:02:05 PROGRESS: Frequency Domain Solver (10) (Solver is running.)
+2026-09-18 11:02:05 INFORMATION: Sample 10 (718184 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:02:05 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:02:05 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:02:05 PROGRESS: . . .
+2026-09-18 11:02:05 PROGRESS: Frequency Domain Solver (10) (. . .)
+2026-09-18 11:02:05 PROGRESS: Setting up equation system
+2026-09-18 11:02:05 PROGRESS: 
+2026-09-18 11:02:05 PROGRESS: . . .
+2026-09-18 11:02:05 PROGRESS: Matrix factorization
+SPE: nSelected                        = 9
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13204
+SPE: nExtrapolationVectors            = 9
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (10):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (11):
+[=======================> ] 93 %                                 Sample 11 (562757 GHz, Theta: 30, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (11):
+2026-09-18 11:02:06 PROGRESS: . . .
+2026-09-18 11:02:06 PROGRESS: Direct solver run
+2026-09-18 11:02:06 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:02:06 PROGRESS: . . .
+2026-09-18 11:02:06 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:02:06 PROGRESS: Solver is running.
+2026-09-18 11:02:06 PROGRESS: Frequency Domain Solver (11) (Solver is running.)
+2026-09-18 11:02:06 INFORMATION: Sample 11 (562757 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:02:06 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:02:06 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:02:06 PROGRESS: . . .
+2026-09-18 11:02:06 PROGRESS: Frequency Domain Solver (11) (. . .)
+2026-09-18 11:02:07 PROGRESS: Setting up equation system
+2026-09-18 11:02:07 PROGRESS: 
+2026-09-18 11:02:07 PROGRESS: . . .
+2026-09-18 11:02:07 PROGRESS: Matrix factorization
+SPE: nSelected                        = 10
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13203
+SPE: nExtrapolationVectors            = 10
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (11):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (12):
+[=======================> ] 93 %                                 Sample 12 (717770 GHz, Theta: 30, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (12):
+2026-09-18 11:02:08 PROGRESS: . . .
+2026-09-18 11:02:08 PROGRESS: Direct solver run
+2026-09-18 11:02:08 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:02:08 PROGRESS: . . .
+2026-09-18 11:02:08 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:02:08 PROGRESS: Solver is running.
+2026-09-18 11:02:08 PROGRESS: Frequency Domain Solver (12) (Solver is running.)
+2026-09-18 11:02:08 INFORMATION: Sample 12 (717770 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:02:08 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:02:08 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:02:08 PROGRESS: . . .
+2026-09-18 11:02:08 PROGRESS: Frequency Domain Solver (12) (. . .)
+2026-09-18 11:02:08 PROGRESS: Setting up equation system
+2026-09-18 11:02:08 PROGRESS: 
+2026-09-18 11:02:08 PROGRESS: . . .
+2026-09-18 11:02:08 PROGRESS: Matrix factorization
+SPE: nSelected                        = 11
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13412
+SPE: nExtrapolationVectors            = 11
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=================>       ] 69 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (12):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (13):
+[=======================> ] 93 %                                 Sample 13 (631974 GHz, Theta: 30, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (13):
+2026-09-18 11:02:09 PROGRESS: . . .
+2026-09-18 11:02:09 PROGRESS: Direct solver run
+2026-09-18 11:02:09 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:02:10 PROGRESS: . . .
+2026-09-18 11:02:10 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:02:10 PROGRESS: Solver is running.
+2026-09-18 11:02:10 PROGRESS: Frequency Domain Solver (13) (Solver is running.)
+2026-09-18 11:02:10 INFORMATION: Sample 13 (631974 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:02:10 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:02:10 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:02:10 PROGRESS: . . .
+2026-09-18 11:02:10 PROGRESS: Frequency Domain Solver (13) (. . .)
+2026-09-18 11:02:10 PROGRESS: Setting up equation system
+2026-09-18 11:02:10 PROGRESS: 
+2026-09-18 11:02:10 PROGRESS: . . .
+2026-09-18 11:02:10 PROGRESS: Matrix factorization
+SPE: nSelected                        = 12
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13229
+SPE: nExtrapolationVectors            = 12
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (13):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (14):
+[=======================> ] 93 %                                 Sample 14 (559026 GHz, Theta: 30, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (14):
+2026-09-18 11:02:11 PROGRESS: . . .
+2026-09-18 11:02:11 PROGRESS: Direct solver run
+2026-09-18 11:02:11 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:02:11 PROGRESS: . . .
+2026-09-18 11:02:11 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:02:11 PROGRESS: Solver is running.
+2026-09-18 11:02:11 PROGRESS: Frequency Domain Solver (14) (Solver is running.)
+2026-09-18 11:02:11 INFORMATION: Sample 14 (559026 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:02:11 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:02:11 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:02:11 PROGRESS: . . .
+2026-09-18 11:02:11 PROGRESS: Frequency Domain Solver (14) (. . .)
+2026-09-18 11:02:11 PROGRESS: Setting up equation system
+2026-09-18 11:02:11 PROGRESS: 
+2026-09-18 11:02:11 PROGRESS: . . .
+2026-09-18 11:02:11 PROGRESS: Matrix factorization
+SPE: nSelected                        = 13
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13198
+SPE: nExtrapolationVectors            = 13
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (14):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (15):
+[=======================> ] 93 %                                 Sample 15 (649382 GHz, Theta: 30, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (15):
+2026-09-18 11:02:12 PROGRESS: . . .
+2026-09-18 11:02:12 PROGRESS: Direct solver run
+2026-09-18 11:02:12 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:02:13 PROGRESS: . . .
+2026-09-18 11:02:13 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:02:13 PROGRESS: Solver is running.
+2026-09-18 11:02:13 PROGRESS: Frequency Domain Solver (15) (Solver is running.)
+2026-09-18 11:02:13 INFORMATION: Sample 15 (649382 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:02:13 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:02:13 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:02:13 PROGRESS: . . .
+2026-09-18 11:02:13 PROGRESS: Frequency Domain Solver (15) (. . .)
+2026-09-18 11:02:13 PROGRESS: Setting up equation system
+2026-09-18 11:02:13 PROGRESS: 
+2026-09-18 11:02:13 PROGRESS: . . .
+2026-09-18 11:02:13 PROGRESS: Matrix factorization
+SPE: nSelected                        = 14
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13187
+SPE: nExtrapolationVectors            = 14
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (15):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (16):
+[=======================> ] 93 %                                 Sample 16 (597158 GHz, Theta: 30, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (16):
+2026-09-18 11:02:14 PROGRESS: . . .
+2026-09-18 11:02:14 PROGRESS: Direct solver run
+2026-09-18 11:02:14 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:02:14 PROGRESS: . . .
+2026-09-18 11:02:14 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:02:14 PROGRESS: Solver is running.
+2026-09-18 11:02:14 PROGRESS: Frequency Domain Solver (16) (Solver is running.)
+2026-09-18 11:02:14 INFORMATION: Sample 16 (597158 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:02:14 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:02:14 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:02:14 PROGRESS: . . .
+2026-09-18 11:02:14 PROGRESS: Frequency Domain Solver (16) (. . .)
+2026-09-18 11:02:14 PROGRESS: Setting up equation system
+2026-09-18 11:02:14 PROGRESS: 
+2026-09-18 11:02:14 PROGRESS: . . .
+2026-09-18 11:02:14 PROGRESS: Matrix factorization
+SPE: nSelected                        = 15
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 13133
+SPE: nExtrapolationVectors            = 15
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (16):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (17):
+[=======================> ] 93 %                                 Sample 17 (458309 GHz, Theta: 30, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (17):
+2026-09-18 11:02:16 PROGRESS: . . .
+2026-09-18 11:02:16 PROGRESS: Direct solver run
+2026-09-18 11:02:16 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:02:16 PROGRESS: . . .
+2026-09-18 11:02:16 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:02:16 PROGRESS: Solver is running.
+2026-09-18 11:02:16 PROGRESS: Frequency Domain Solver (17) (Solver is running.)
+2026-09-18 11:02:16 INFORMATION: Sample 17 (458309 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:02:16 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:02:16 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:02:16 PROGRESS: . . .
+2026-09-18 11:02:16 PROGRESS: Frequency Domain Solver (17) (. . .)
+2026-09-18 11:02:16 PROGRESS: Setting up equation system
+2026-09-18 11:02:16 PROGRESS: 
+2026-09-18 11:02:16 PROGRESS: . . .
+2026-09-18 11:02:16 PROGRESS: Matrix factorization
+SPE: nSelected                        = 16
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12876
+SPE: nExtrapolationVectors            = 16
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=================>       ] 69 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (17):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (18):
+[=======================> ] 93 %                                 Sample 18 (576434 GHz, Theta: 30, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (18):
+2026-09-18 11:02:18 PROGRESS: . . .
+2026-09-18 11:02:18 PROGRESS: Direct solver run
+2026-09-18 11:02:18 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:02:18 PROGRESS: . . .
+2026-09-18 11:02:18 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:02:18 PROGRESS: Solver is running.
+2026-09-18 11:02:18 PROGRESS: Frequency Domain Solver (18) (Solver is running.)
+2026-09-18 11:02:18 INFORMATION: Sample 18 (576434 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:02:18 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:02:18 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:02:18 PROGRESS: . . .
+2026-09-18 11:02:18 PROGRESS: Frequency Domain Solver (18) (. . .)
+2026-09-18 11:02:18 PROGRESS: Setting up equation system
+2026-09-18 11:02:18 PROGRESS: 
+2026-09-18 11:02:18 PROGRESS: . . .
+2026-09-18 11:02:18 PROGRESS: Matrix factorization
+SPE: nSelected                        = 17
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12876
+SPE: nExtrapolationVectors            = 17
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (18):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (19):
+[=======================> ] 93 %                                 Sample 19 (431368 GHz, Theta: 30, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (19):
+2026-09-18 11:02:19 PROGRESS: . . .
+2026-09-18 11:02:19 PROGRESS: Direct solver run
+2026-09-18 11:02:19 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:02:20 PROGRESS: . . .
+2026-09-18 11:02:20 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:02:20 PROGRESS: Solver is running.
+2026-09-18 11:02:20 PROGRESS: Frequency Domain Solver (19) (Solver is running.)
+2026-09-18 11:02:20 INFORMATION: Sample 19 (431368 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:02:20 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:02:20 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:02:20 PROGRESS: . . .
+2026-09-18 11:02:20 PROGRESS: Frequency Domain Solver (19) (. . .)
+2026-09-18 11:02:20 PROGRESS: Setting up equation system
+2026-09-18 11:02:20 PROGRESS: 
+2026-09-18 11:02:20 PROGRESS: . . .
+2026-09-18 11:02:20 PROGRESS: Matrix factorization
+SPE: nSelected                        = 18
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12876
+SPE: nExtrapolationVectors            = 18
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (19):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (20):
+[=======================> ] 93 %                                 Sample 20 (682539 GHz, Theta: 30, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (20):
+2026-09-18 11:02:21 PROGRESS: . . .
+2026-09-18 11:02:21 PROGRESS: Direct solver run
+2026-09-18 11:02:21 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:02:21 PROGRESS: . . .
+2026-09-18 11:02:21 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:02:21 PROGRESS: Solver is running.
+2026-09-18 11:02:21 PROGRESS: Frequency Domain Solver (20) (Solver is running.)
+2026-09-18 11:02:21 INFORMATION: Sample 20 (682539 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:02:21 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:02:21 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:02:21 PROGRESS: . . .
+2026-09-18 11:02:21 PROGRESS: Frequency Domain Solver (20) (. . .)
+2026-09-18 11:02:22 PROGRESS: Setting up equation system
+2026-09-18 11:02:22 PROGRESS: 
+2026-09-18 11:02:22 PROGRESS: . . .
+2026-09-18 11:02:22 PROGRESS: Matrix factorization
+SPE: nSelected                        = 19
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12890
+SPE: nExtrapolationVectors            = 19
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (20):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (21):
+[=======================> ] 93 %                                 Sample 21 (396967 GHz, Theta: 30, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (21):
+2026-09-18 11:02:23 PROGRESS: . . .
+2026-09-18 11:02:23 PROGRESS: Direct solver run
+2026-09-18 11:02:23 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:02:23 PROGRESS: . . .
+2026-09-18 11:02:23 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:02:23 PROGRESS: Solver is running.
+2026-09-18 11:02:23 PROGRESS: Frequency Domain Solver (21) (Solver is running.)
+2026-09-18 11:02:23 INFORMATION: Sample 21 (396967 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:02:23 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:02:23 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:02:23 PROGRESS: . . .
+2026-09-18 11:02:23 PROGRESS: Frequency Domain Solver (21) (. . .)
+2026-09-18 11:02:23 PROGRESS: Setting up equation system
+2026-09-18 11:02:23 PROGRESS: 
+2026-09-18 11:02:23 PROGRESS: . . .
+2026-09-18 11:02:23 PROGRESS: Matrix factorization
+SPE: nSelected                        = 20
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12900
+SPE: nExtrapolationVectors            = 20
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (21):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (22):
+[=======================> ] 93 %                                 Sample 22 (782842 GHz, Theta: 30, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (22):
+2026-09-18 11:02:25 PROGRESS: . . .
+2026-09-18 11:02:25 PROGRESS: Direct solver run
+2026-09-18 11:02:25 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:02:25 PROGRESS: . . .
+2026-09-18 11:02:25 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:02:25 PROGRESS: Solver is running.
+2026-09-18 11:02:25 PROGRESS: Frequency Domain Solver (22) (Solver is running.)
+2026-09-18 11:02:25 INFORMATION: Sample 22 (782842 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:02:25 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:02:25 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:02:25 PROGRESS: . . .
+2026-09-18 11:02:25 PROGRESS: Frequency Domain Solver (22) (. . .)
+2026-09-18 11:02:25 PROGRESS: Setting up equation system
+2026-09-18 11:02:25 PROGRESS: 
+2026-09-18 11:02:25 PROGRESS: . . .
+2026-09-18 11:02:25 PROGRESS: Matrix factorization
+SPE: nSelected                        = 21
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12893
+SPE: nExtrapolationVectors            = 20
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (22):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (23):
+[=======================> ] 93 %                                 Sample 23 (690414 GHz, Theta: 30, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (23):
+2026-09-18 11:02:27 PROGRESS: . . .
+2026-09-18 11:02:27 PROGRESS: Direct solver run
+2026-09-18 11:02:27 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:02:27 PROGRESS: . . .
+2026-09-18 11:02:27 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:02:27 PROGRESS: Solver is running.
+2026-09-18 11:02:27 PROGRESS: Frequency Domain Solver (23) (Solver is running.)
+2026-09-18 11:02:27 INFORMATION: Sample 23 (690414 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:02:27 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:02:27 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:02:27 PROGRESS: . . .
+2026-09-18 11:02:27 PROGRESS: Frequency Domain Solver (23) (. . .)
+2026-09-18 11:02:27 PROGRESS: Setting up equation system
+2026-09-18 11:02:27 PROGRESS: 
+2026-09-18 11:02:27 PROGRESS: . . .
+2026-09-18 11:02:27 PROGRESS: Matrix factorization
+SPE: nSelected                        = 21
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12906
+SPE: nExtrapolationVectors            = 20
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=================>       ] 69 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (23):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (24):
+[=======================> ] 93 %                                 Sample 24 (473645 GHz, Theta: 30, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (24):
+2026-09-18 11:02:29 PROGRESS: . . .
+2026-09-18 11:02:29 PROGRESS: Direct solver run
+2026-09-18 11:02:29 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:02:29 PROGRESS: . . .
+2026-09-18 11:02:29 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:02:29 PROGRESS: Solver is running.
+2026-09-18 11:02:29 PROGRESS: Frequency Domain Solver (24) (Solver is running.)
+2026-09-18 11:02:29 INFORMATION: Sample 24 (473645 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:02:29 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:02:29 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:02:29 PROGRESS: . . .
+2026-09-18 11:02:29 PROGRESS: Frequency Domain Solver (24) (. . .)
+2026-09-18 11:02:29 PROGRESS: Setting up equation system
+2026-09-18 11:02:29 PROGRESS: 
+2026-09-18 11:02:29 PROGRESS: . . .
+2026-09-18 11:02:29 PROGRESS: Matrix factorization
+SPE: nSelected                        = 21
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12898
+SPE: nExtrapolationVectors            = 20
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (24):
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (25):
+[=======================> ] 93 %                                 Sample 25 (568974 GHz, Theta: 30, Phi: 0)
+[=======================> ] 93 % [>                        ] 0 %                                Port Mode Solver (1):
+[>                        ] 0 %                                Port Mode Solver (2):
+[>                        ] 0 %                                Frequency Domain Solver (25):
+2026-09-18 11:02:31 PROGRESS: . . .
+2026-09-18 11:02:31 PROGRESS: Direct solver run
+2026-09-18 11:02:31 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:02:31 PROGRESS: . . .
+2026-09-18 11:02:31 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:02:31 PROGRESS: Solver is running.
+2026-09-18 11:02:31 PROGRESS: Frequency Domain Solver (25) (Solver is running.)
+2026-09-18 11:02:31 INFORMATION: Sample 25 (568974 GHz, Theta: 30, Phi: 0).
+2026-09-18 11:02:31 PROGRESS: Port Mode Solver (1) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 1).
+2026-09-18 11:02:31 PROGRESS: Port Mode Solver (2) (Solver is running.)
+INFORMATION: Port mesh has been updated (port 2).
+2026-09-18 11:02:31 PROGRESS: . . .
+2026-09-18 11:02:31 PROGRESS: Frequency Domain Solver (25) (. . .)
+2026-09-18 11:02:31 PROGRESS: Setting up equation system
+2026-09-18 11:02:31 PROGRESS: 
+2026-09-18 11:02:31 PROGRESS: . . .
+2026-09-18 11:02:31 PROGRESS: Matrix factorization
+SPE: nSelected                        = 21
+SPE: nExtrapolationVectorsMax         = 20
+SPE: nMemoryLimitExtrapolationVectors = 12897
+SPE: nExtrapolationVectors            = 20
+[>                        ] 0 % [======>                  ] 27 % [======>                  ] 25 % [=======================> ] 93 % [=======================> ] 93 %                                 Excitation: port Zmax, mode 1
+[=======================> ] 93 % [=========================] 100 % [=======================> ] 93 %                                 Frequency Domain Solver (25):
+[=======================> ] 93 % [=========================] 100 % 
+All broadband sweep convergence criteria have been satisfied after calculating 25 frequency samples.
+Frequency Domain Solver (25):
+[>                        ] 0 % [=>                       ] 5 % [==>                      ] 10 % [===>                     ] 15 % [=====>                   ] 20 % [======>                  ] 25 % [=======>                 ] 30 % [========>                ] 34 % [==========>              ] 40 % [===========>             ] 44 % [============>            ] 50 % [=============>           ] 55 % [===============>         ] 60 % [================>        ] 64 % [=================>       ] 69 % [==================>      ] 75 % [====================>    ] 80 % [=====================>   ] 85 % [======================>  ] 89 % [=======================> ] 94 % [=========================] 100 % 
+WARNING: The material properties in Floquet port Zmin differ from those of the background. Some scan angle sweep farfield results will not be available for this port.
+2026-09-18 11:02:32 PROGRESS: . . .
+2026-09-18 11:02:32 PROGRESS: Direct solver run
+2026-09-18 11:02:32 INFORMATION: Excitation: port Zmax, mode 1.
+2026-09-18 11:02:33 PROGRESS: . . .
+2026-09-18 11:02:33 PROGRESS: 
+INFORMATION: Results have been updated.
+2026-09-18 11:02:33 INFORMATION: All broadband sweep convergence criteria have been satisfied after calculating 25 frequency samples..
+2026-09-18 11:02:33 PROGRESS: Saving restart information
+2026-09-18 11:02:33 PROGRESS: . . .
+2026-09-18 11:02:33 WARNING: The material properties in Floquet port Zmin differ from those of the background. Some scan angle sweep farfield results will not be available for this port..
+INFORMATION: Results have been updated.
+2026-09-18 11:02:33 FINISHED: Return code = 1
+Running post-processing.
+Start solver <Solver_PP>
+socket ids from command line: 0
+This is /opt/cst/CST_Studio_Suite_2026/LinuxAMD64/Solver_PP_AMD64 build 2026.0 Release from 2025-08-29 (change 1465899)
+Caller build: Version 2026.0 Build: 20250829
+CPU Core number: 13
+
+Options:
+  - IPAddress                = 127.0.0.1:36077:3074555
+  - ProjectBaseName          = \home\yuxiao\Yuxiao Li\tandem\Filter_CST_DataGen_Share\parallel_work\w0\model2021_nk_model_multi_peaks.cst
+  - UserData                 = .json;178227462
+  - ApplicationPath          = /opt/cst/CST_Studio_Suite_2026
+  - VersionInfo              = 
+  - bMPIActive               = false
+mpi_info:
+  - MPINodeID                = -1
+Processor group: 0
+cpu device ids : 0
+Environment variable CST_PROCESS_AFFINITY defining process affinity is not set. --> OK
+
+Maximum number of threads allowed: 10
+Number of threads used: 10
+
+TreeNames:
+
+1D Results\S-Parameters\SZmin(1),Zmax(1)
+1D Results\S-Parameters\SZmin(2),Zmax(1)
+1D Results\S-Parameters\SZmax(1),Zmax(1)
+1D Results\S-Parameters\SZmax(2),Zmax(1)
+
+FileNames:
+
+Result/cSZmin(1)Zmax(1).sig
+Result/cSZmin(2)Zmax(1).sig
+Result/cSZmax(1)Zmax(1).sig
+Result/cSZmax(2)Zmax(1).sig
+2026-09-18 11:02:33 FINISHED: Return code = 1
+Modeler: Save project /home/yuxiao/Yuxiao Li/tandem/Filter_CST_DataGen_Share/parallel_work/w0/model2021_nk_model_multi_peaks.cst
+Schematic: Save project /home/yuxiao/Yuxiao Li/tandem/Filter_CST_DataGen_Share/parallel_work/w0/model2021_nk_model_multi_peaks.cst includeResults=1 autosave=0
+Post-processing finished.
+Creating parametric 1D results for Run ID 1
+Start solver <Solver_PP>
+socket ids from command line: 0
+This is /opt/cst/CST_Studio_Suite_2026/LinuxAMD64/Solver_PP_AMD64 build 2026.0 Release from 2025-08-29 (change 1465899)
+Caller build: Version 2026.0 Build: 20250829
+CPU Core number: 13
+
+Options:
+  - IPAddress                = 127.0.0.1:44801:3074555
+  - ProjectBaseName          = \home\yuxiao\Yuxiao Li\tandem\Filter_CST_DataGen_Share\parallel_work\w0\model2021_nk_model_multi_peaks.cst
+  - UserData                 = .json;172532477
+  - ApplicationPath          = /opt/cst/CST_Studio_Suite_2026
+  - VersionInfo              = 
+  - bMPIActive               = false
+mpi_info:
+  - MPINodeID                = -1
+Processor group: 0
+cpu device ids : 0
+Environment variable CST_PROCESS_AFFINITY defining process affinity is not set. --> OK
+
+Maximum number of threads allowed: 10
+Number of threads used: 10
+Post-Processing:
+2026-09-18 11:02:34 PROGRESS: Creating parametric 1D results.
+2026-09-18 11:02:34 FINISHED: Return code = 1
+Modeler: Save project /home/yuxiao/Yuxiao Li/tandem/Filter_CST_DataGen_Share/parallel_work/w0/model2021_nk_model_multi_peaks.cst
+[>                        ] 0 % [>                        ] 0 % [>                        ] 1 % [>                        ] 2 % [=>                       ] 3 % [=>                       ] 5 % [=>                       ] 5 % [=>                       ] 7 % [==>                      ] 7 % [==>                      ] 9 % [==>                      ] 10 % [==>                      ] 10 % [===>                     ] 11 % [===>                     ] 12 % [===>                     ] 14 % [===>                     ] 15 % [====>                    ] 15 % [====>                    ] 17 % [====>                    ] 18 % [====>                    ] 18 % [=====>                   ] 20 % [=====>                   ] 20 % [=====>                   ] 23 % [======>                  ] 23 % [======>                  ] 25 % [======>                  ] 25 % [======>                  ] 27 % [=======>                 ] 28 % [=======>                 ] 28 % [=======>                 ] 30 % [=======>                 ] 31 % [========>                ] 31 % [========>                ] 33 % [========>                ] 34 % [========>                ] 34 % [=========>               ] 36 % [=========>               ] 37 % [=========>               ] 37 % [=========>               ] 38 % [==========>              ] 40 % [==========>              ] 40 % [==========>              ] 41 % [==========>              ] 43 % [===========>             ] 44 % [============>            ] 50 % [======================>  ] 89 % [=========================] 100 % 
+WARNING: 3 warnings occurred.
+Finished!
+Schematic: Save project /home/yuxiao/Yuxiao Li/tandem/Filter_CST_DataGen_Share/parallel_work/w0/model2021_nk_model_multi_peaks.cst includeResults=1 autosave=0
+TRACE: CST::Exception: Illegal usage of S-Matrix, No impedance found
+TRACE: CST::Exception: Illegal usage of S-Matrix, No impedance found
+You are working in interactive mode.
+You are working in interactive mode.
+id=00003 R=4.6284747124 n_host1=1.6201324463 n_host2=2.3012211323 theta=60
+Modeler finished successfully
+/opt/cst/CST_Studio_Suite_2026/cst_design_environment_gui: line 720: 3065167 Killed                  ${CST_MAINWIN_RUNNER} "${CST_EXECUTE_PROGRAM}" $EXTRAOPTS "$@" 2> >(grep -v '" missing on display ":' 1>&2)
+Program terminated abnormally. Exitcode was 137
+

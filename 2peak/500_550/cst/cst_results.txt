@@ -1,0 +1,13 @@
+comparison	final_network_vs_angle_averaged_cst
+angles_deg	0,30,60
+spectrum_rmse	3.1272559103e-02
+network_notch1_wavelength_nm	496.4163381203
+network_notch1_transmittance	2.1761669219e-01
+network_notch2_wavelength_nm	553.0771126823
+network_notch2_transmittance	2.0308493078e-01
+cst_notch1_wavelength_nm	499.3543042087
+cst_notch1_transmittance	1.7110930558e-01
+cst_notch2_wavelength_nm	548.8800182703
+cst_notch2_transmittance	1.5541945278e-01
+notch1_shift_nm	2.9379660884
+notch2_shift_nm	-4.1970944120

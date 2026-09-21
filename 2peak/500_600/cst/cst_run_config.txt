@@ -1,0 +1,10 @@
+workflow	2peak
+target_peak_wavelengths_nm	500.0000000000,600.0000000000
+training_reference_angle_deg	0
+periodic_scan_direction	inward
+source_method	cvae
+source_structure_file	/home/yuxiao/Yuxiao Li/tandem/2peak/500_600/cvae/cvae_structure.txt
+R	4.8717699051
+n_host1	2.8119688034
+n_host2	2.2159154415
+angles_deg	0,30,60

@@ -1,0 +1,35 @@
+{
+  "note": "The deployed double-notch models are not one training run: each network is the best cell of its own 4x4 physics-loss weight grid, scored on the held-out test tenth. The tandem cells all share one frozen forward checkpoint (the selected forward), so the tandem row measures the loss effect on the inverse network alone. Verified by md5 against the grid runs on 2026-09-18.",
+  "dataset": "data/cstdata_35547.npz",
+  "dataset_points": 35547,
+  "dataset_note": "n step 0.1, three incidence angles (0/30/60 deg) averaged into one spectrum per structure",
+  "seed": 42,
+  "epochs": 2000,
+  "w_generation": 300.0,
+  "structure_min": [2.5, 1.5, 1.5],
+  "structure_max": [6.5, 3.05, 3.05],
+  "networks": {
+    "forward": {
+      "file": "DNN_tandem_FNN_label.ckpt",
+      "source": "weight_grid_runs/w0_1/model/DNN_tandem_FNN_label.ckpt",
+      "w_peak_wavelength": 0.0,
+      "w_peak_intensity": 1.0,
+      "md5": "01617aa1847feb1e069c46d8f7d6e7ea"
+    },
+    "tandem_inverse": {
+      "file": "DNN_tandem_INN_label.ckpt",
+      "source": "weight_grid_runs_tandem/w1_0/model/DNN_tandem_INN_label.ckpt",
+      "w_peak_wavelength": 1.0,
+      "w_peak_intensity": 0.0,
+      "md5": "b500451f4e5c2773183a806f1dd98306"
+    },
+    "cvae": {
+      "file": "cvae_best.pth",
+      "source": "weight_grid_runs/w100_0/model/cvae_best.pth",
+      "w_peak_wavelength": 100.0,
+      "w_peak_intensity": 0.0,
+      "md5": "699df32dc7aeae26b53a96f00ae55b02"
+    }
+  },
+  "superseded": "training_summary.json in the parent directory describes the (1,1) sweep run, not these deployed checkpoints."
+}

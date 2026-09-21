@@ -1,0 +1,24 @@
+{
+  "seed": 42,
+  "data": "data/cstdata_35547.npz",
+  "structure_min": [
+    2.5,
+    1.5,
+    1.5
+  ],
+  "structure_max": [
+    6.5,
+    3.049999952316284,
+    3.049999952316284
+  ],
+  "stages": {
+    "tandem": {
+      "best_val": 0.002455058740451932,
+      "best_epoch": 1678,
+      "epochs": 2000
+    }
+  },
+  "w_peak_wavelength": 100.0,
+  "w_peak_intensity": 1.0,
+  "w_generation": 300.0
+}

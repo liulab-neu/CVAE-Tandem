@@ -1,0 +1,34 @@
+{
+  "seed": 42,
+  "data": "data/cstdata_35547.npz",
+  "structure_min": [
+    2.5,
+    1.5,
+    1.5
+  ],
+  "structure_max": [
+    6.5,
+    3.049999952316284,
+    3.049999952316284
+  ],
+  "stages": {
+    "fnn": {
+      "best_val": 0.00013363575271796435,
+      "best_epoch": 898,
+      "epochs": 2000
+    },
+    "tandem": {
+      "best_val": 0.038452278822660446,
+      "best_epoch": 0,
+      "epochs": 2000
+    },
+    "cvae": {
+      "best_val": 5.4380388259887695,
+      "best_epoch": 1961,
+      "epochs": 2000
+    }
+  },
+  "w_peak_wavelength": 100.0,
+  "w_peak_intensity": 100.0,
+  "w_generation": 300.0
+}

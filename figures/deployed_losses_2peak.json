@@ -1,0 +1,30 @@
+{
+ "forward": {
+  "gamma": 0.0,
+  "delta": 1.0,
+  "w_spectral": 300.0,
+  "reconstruction": 0.0001041324867401272,
+  "peak_wavelength": 0.0007341248565353453,
+  "peak_intensity": 0.0001521343510830775,
+  "total": 0.03139188140630722
+ },
+ "tandem": {
+  "gamma": 1.0,
+  "delta": 0.0,
+  "w_spectral": 300.0,
+  "reconstruction": 0.002911314368247986,
+  "peak_wavelength": 0.0007164953858591616,
+  "peak_intensity": 0.0010387288639321923,
+  "total": 0.8741108179092407
+ },
+ "cvae": {
+  "gamma": 100.0,
+  "delta": 0.0,
+  "w_reconstruction": 2000.0,
+  "reconstruction": 0.000604791275691241,
+  "kld": 2.540587902069092,
+  "peak_wavelength": 0.0006186732789501548,
+  "peak_intensity": 0.00232794345356524,
+  "total": 3.812037944793701
+ }
+}

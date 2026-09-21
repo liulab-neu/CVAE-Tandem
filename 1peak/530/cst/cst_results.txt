@@ -1,0 +1,29 @@
+validation_type	exact_structure_CST_simulation
+exact_structure_CST_simulation	1
+source_structure_file	/home/yuxiao/Yuxiao Li/tandem/1peak/530/cvae/cvae_structure.txt
+cst_source_0deg_file	/home/yuxiao/Yuxiao Li/tandem/1peak/530/cst/00001.b
+cst_source_30deg_file	/home/yuxiao/Yuxiao Li/tandem/1peak/530/cst/00002.b
+cst_source_60deg_file	/home/yuxiao/Yuxiao Li/tandem/1peak/530/cst/00003.b
+design_wavelength_nm	530.0000000000
+R	4.3797502518
+n_host1	2.3544480801
+n_host2	2.3544480801
+final_result_source_file	/home/yuxiao/Yuxiao Li/tandem/1peak/530/cvae/cvae_data.txt
+final_result_source_column	tandem_response_transmittance
+cst_average_angles_deg	0,30,60
+cst_average_formula	(T_0deg + T_30deg + T_60deg) / 3
+cst_average_min_index	361
+cst_average_min_wavelength_nm	531.2521972700
+cst_average_min_transmittance	1.1078617722e-02
+final_result_min_index	358
+final_result_min_wavelength_nm	529.9931030300
+final_result_min_transmittance	2.0430706441e-02
+cst_average_minus_final_min_wavelength_nm	1.2590942400
+cst_average_minus_final_min_transmittance	-9.3520887186e-03
+cst_average_vs_final_mse	3.5675233952e-04
+cst_average_vs_final_rmse	1.8887888699e-02
+cst_average_vs_final_mae	1.0817718901e-02
+cst_average_vs_final_max_abs_error	5.9978456562e-02
+cst_average_vs_final_r_squared	9.9240418139e-01
+cst_average_vs_final_correlation	9.9645073083e-01
+cst_average_vs_final_local_500_560nm_rmse	2.8700511303e-02

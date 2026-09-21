@@ -1,0 +1,10 @@
+run_tag	20260809_183934
+target_wavelength_nm	410.0000000000
+predicted_R	5.7076439857
+predicted_n_host	1.5554815531
+predicted_min_index	75
+predicted_min_wavelength_nm	411.2153215567
+predicted_min_transmittance	4.9408213235e-03
+wavelength_error_nm	1.2153215567
+mse	1.5046057524e-03
+rmse	3.8789247897e-02

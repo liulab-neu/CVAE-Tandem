@@ -1,0 +1,40 @@
+System     : 1peak (dual=False)
+Cells      : 16
+Data       : trainer default
+Work dir   : /home/yuxiao/Yuxiao Li/tandem/1peak/weight_grid_runs
+Test cases : 132   grid 1001 points
+Best forward: cell w100_1 (dip_mean 0.572 nm) -> /home/yuxiao/Yuxiao Li/tandem/1peak/weight_grid_runs/w100_1/model/DNN_tandem_FNN_label.ckpt
+[1/16] w0_0: training tandem
+    dip_mean 116.746 nm  depth_mean 45.74 %  mse 718e-4  (69 s)
+[2/16] w0_1: training tandem
+    dip_mean 0.496 nm  depth_mean 0.89 %  mse 0.289e-4  (69 s)
+[3/16] w0_10: training tandem
+    dip_mean 40.737 nm  depth_mean 8.06 %  mse 449e-4  (67 s)
+[4/16] w0_100: training tandem
+    dip_mean 50.251 nm  depth_mean 6.36 %  mse 627e-4  (70 s)
+[5/16] w1_0: training tandem
+    dip_mean 0.467 nm  depth_mean 0.81 %  mse 0.286e-4  (70 s)
+[6/16] w1_1: training tandem
+    dip_mean 0.477 nm  depth_mean 0.80 %  mse 0.303e-4  (69 s)
+[7/16] w1_10: training tandem
+    dip_mean 55.701 nm  depth_mean 20.34 %  mse 664e-4  (69 s)
+[8/16] w1_100: training tandem
+    dip_mean 47.023 nm  depth_mean 11.87 %  mse 611e-4  (69 s)
+[9/16] w10_0: training tandem
+    dip_mean 0.490 nm  depth_mean 0.83 %  mse 0.318e-4  (71 s)
+[10/16] w10_1: training tandem
+    dip_mean 0.512 nm  depth_mean 0.93 %  mse 0.335e-4  (70 s)
+[11/16] w10_10: training tandem
+    dip_mean 61.417 nm  depth_mean 31.90 %  mse 469e-4  (69 s)
+[12/16] w10_100: training tandem
+    dip_mean 56.591 nm  depth_mean 32.31 %  mse 457e-4  (69 s)
+[13/16] w100_0: training tandem
+    dip_mean 0.477 nm  depth_mean 0.83 %  mse 0.28e-4  (69 s)
+[14/16] w100_1: training tandem
+    dip_mean 0.480 nm  depth_mean 0.80 %  mse 0.28e-4  (70 s)
+[15/16] w100_10: training tandem
+    dip_mean 0.467 nm  depth_mean 0.92 %  mse 0.315e-4  (70 s)
+[16/16] w100_100: training tandem
+    dip_mean 16.703 nm  depth_mean 7.10 %  mse 278e-4  (68 s)
+
+Wrote: /home/yuxiao/Yuxiao Li/tandem/1peak/weight_grid_runs/grid16_1peak_tandem.json  (16 cells)

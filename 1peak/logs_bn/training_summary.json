@@ -1,0 +1,13 @@
+{
+  "seed": 42,
+  "stages": {
+    "cvae": {
+      "best_val": 2.701942205429077,
+      "best_epoch": 1905,
+      "epochs": 2000
+    }
+  },
+  "w_peak_wavelength": 100.0,
+  "w_peak_intensity": 1.0,
+  "w_generation": 300.0
+}

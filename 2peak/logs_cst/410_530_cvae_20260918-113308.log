@@ -1,0 +1,32 @@
+Structure file: /home/yuxiao/Yuxiao Li/tandem/2peak/410_530/cvae/cvae_structure.txt
+CST project: /home/yuxiao/Yuxiao Li/tandem/Filter_CST_DataGen_Share/parallel_work/w2/model2021_nk_model_multi_peaks.cst
+Output directory: /home/yuxiao/Yuxiao Li/tandem/2peak/410_530/cst
+Structure: R=5.0521135330, n_host1=1.5203791857, n_host2=2.3391146660
+2peak validation uses independent n_host1/n_host2; the primary training reference is theta=0 deg.
+Angles: (0.0, 30.0, 60.0)
+The new directory is created!
+CST Python library: /opt/cst/CST_Studio_Suite_2026/LinuxAMD64/python_cst_libraries
+/opt/cst/CST_Studio_Suite_2026/LinuxAMD64/python_cst_libraries/cst/__init__.py
+Using CST_CONFIG_HOME=/home/yuxiao/.config
+Using XDG_RUNTIME_DIR=/run/user/1002
+
+Detected ubuntu-24-04 operating system.
+
+Info: using CST mesa
+This is CST DESIGN ENVIRONMENT 2026.0 Release from 2025-08-29 (change 1465899)
+Using install path: /opt/cst/CST_Studio_Suite_2026/
+Using Qt 6.8.3 (compiled with 6.8.3)
+
+desktop: 
+Checking license servers...
+License search path found in CST registry: 27000@129.10.65.133
+Checking license at startup successfully passed.
+Connecting to license server: 27000@129.10.65.133
+==========================================
+Education Version
+
+This software is licensed for non-commercial use only.
+==========================================
+/opt/cst/CST_Studio_Suite_2026/cst_design_environment_gui: line 720: 3084856 Killed                  ${CST_MAINWIN_RUNNER} "${CST_EXECUTE_PROGRAM}" $EXTRAOPTS "$@" 2> >(grep -v '" missing on display ":' 1>&2)
+Program terminated abnormally. Exitcode was 137
+

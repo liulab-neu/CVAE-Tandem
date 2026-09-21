@@ -1,0 +1,17 @@
+device cuda  train 9479  val 1184  test 1186  w_peak_wavelength 0.0
+data data/cstdata_35547.npz
+structure_min [2.5, 1.5, 1.5]  structure_max [6.5, 3.05, 3.05]
+Saved: /home/yuxiao/Yuxiao Li/tandem/2peak/weight_grid_runs_tandem/w0_100/model/normalisation.json
+== tandem network ==
+  [tandem] epoch 200 train 5.894e-02 val 5.974e-02 best 4.109e-02@0
+  [tandem] epoch 400 train 5.892e-02 val 5.974e-02 best 4.109e-02@0
+  [tandem] epoch 600 train 5.903e-02 val 5.974e-02 best 4.109e-02@0
+  [tandem] epoch 800 train 5.905e-02 val 5.974e-02 best 4.109e-02@0
+  [tandem] epoch 1000 train 5.891e-02 val 5.974e-02 best 4.109e-02@0
+  [tandem] epoch 1200 train 5.889e-02 val 5.974e-02 best 4.109e-02@0
+  [tandem] epoch 1400 train 5.892e-02 val 5.974e-02 best 4.109e-02@0
+  [tandem] epoch 1600 train 5.894e-02 val 5.974e-02 best 4.109e-02@0
+  [tandem] epoch 1800 train 5.889e-02 val 5.974e-02 best 4.109e-02@0
+  [tandem] epoch 2000 train 5.889e-02 val 5.974e-02 best 4.109e-02@0
+  [tandem] stopped at epoch 1999; best val 4.109430e-02 at epoch 0; 920 s
+Saved: /home/yuxiao/Yuxiao Li/tandem/2peak/weight_grid_runs_tandem/w0_100/training_summary.json

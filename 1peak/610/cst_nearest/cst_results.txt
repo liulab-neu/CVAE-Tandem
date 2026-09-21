@@ -1,0 +1,37 @@
+case	610
+design_wavelength_nm	610.0000000000
+validation_type	nearest_angle_averaged_CST_dataset_simulation
+exact_structure_CST_simulation	0
+provenance_note	existing_dataset_simulation_not_exact_final_structure
+selection_metric	minimum_full_spectrum_MSE_to_final_network_response
+structure_distance_used_for_selection	0
+dataset_spectrum_definition	(T_0deg+T_30deg+T_60deg)/3
+dataset_sample_count	1312
+dataset_angle_count	3
+dataset_root	/home/yuxiao/Yuxiao Li/batch3
+related_spectra_file	/home/yuxiao/Yuxiao Li/tandem/1peak/data/y_related.pt
+final_network_response_source_file	/home/yuxiao/Yuxiao Li/tandem/1peak/610/cvae/cvae_data.txt
+final_network_structure_source_file	/home/yuxiao/Yuxiao Li/tandem/1peak/610/cvae/cvae_structure.txt
+final_network_R	3.6668295860
+final_network_n_host	2.8222250938
+selected_dataset_index_zero_based	442
+selected_dataset_row_one_based	443
+selected_dataset_structure_file	/home/yuxiao/Yuxiao Li/batch3/00443.a
+selected_dataset_reference_b_file	/home/yuxiao/Yuxiao Li/batch3/00443.b
+selected_dataset_R	3.8000000000
+selected_dataset_n_host	2.8000000000
+selected_minus_final_R	0.1331704140
+selected_minus_final_n_host	-0.0222250938
+full_spectrum_MSE_distance	5.3369406146e-04
+full_spectrum_RMSE	2.3101819440e-02
+full_spectrum_MAE	1.0572050295e-02
+full_spectrum_maximum_absolute_error	1.2845339136e-01
+full_spectrum_correlation	9.9396464862e-01
+final_response_min_wavelength_nm	608.8984683619
+final_response_min_transmittance	6.4952533032e-02
+final_response_absolute_design_wavelength_error_nm	1.1015316381
+nearest_CST_min_wavelength_nm	605.5407928323
+nearest_CST_min_transmittance	3.6581892520e-02
+nearest_CST_absolute_design_wavelength_error_nm	4.4592071677
+nearest_CST_minus_final_peak_wavelength_nm	-3.3576755296
+nearest_CST_absolute_final_peak_wavelength_error_nm	3.3576755296

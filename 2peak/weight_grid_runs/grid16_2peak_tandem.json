@@ -1,0 +1,178 @@
+[
+  {
+    "w_pw": 0.0,
+    "w_pi": 0.0,
+    "dip_mean": 3.189074049348547,
+    "dip_median": 0.83941650390625,
+    "depth_mean": 0.019300561398267746,
+    "depth_median": 0.010155684314668179,
+    "mse": 0.0028824976179748774,
+    "scored_cases": 1109,
+    "forward_checkpoint": "/home/yuxiao/Yuxiao Li/tandem/2peak/weight_grid_runs/w0_1/model/DNN_tandem_FNN_label.ckpt"
+  },
+  {
+    "w_pw": 0.0,
+    "w_pi": 1.0,
+    "dip_mean": 3.7635473787192297,
+    "dip_median": 1.04925537109375,
+    "depth_mean": 0.02865874208509922,
+    "depth_median": 0.013101868331432343,
+    "mse": 0.002189780818298459,
+    "scored_cases": 1107,
+    "forward_checkpoint": "/home/yuxiao/Yuxiao Li/tandem/2peak/weight_grid_runs/w0_1/model/DNN_tandem_FNN_label.ckpt"
+  },
+  {
+    "w_pw": 0.0,
+    "w_pi": 10.0,
+    "dip_mean": 3.116191877785142,
+    "dip_median": 0.8394317626953125,
+    "depth_mean": 0.026303326711058617,
+    "depth_median": 0.012030246667563915,
+    "mse": 0.003199484897777438,
+    "scored_cases": 1108,
+    "forward_checkpoint": "/home/yuxiao/Yuxiao Li/tandem/2peak/weight_grid_runs/w0_1/model/DNN_tandem_FNN_label.ckpt"
+  },
+  {
+    "w_pw": 0.0,
+    "w_pi": 100.0,
+    "dip_mean": 42.22228043948426,
+    "dip_median": 36.514739990234375,
+    "depth_mean": 0.19725804030895233,
+    "depth_median": 0.17478325963020325,
+    "mse": 0.041203320026397705,
+    "scored_cases": 941,
+    "forward_checkpoint": "/home/yuxiao/Yuxiao Li/tandem/2peak/weight_grid_runs/w0_1/model/DNN_tandem_FNN_label.ckpt"
+  },
+  {
+    "w_pw": 1.0,
+    "w_pi": 0.0,
+    "dip_mean": 1.8305476495074882,
+    "dip_median": 0.83941650390625,
+    "depth_mean": 0.018134593963623047,
+    "depth_median": 0.008803846314549446,
+    "mse": 0.002911314368247986,
+    "scored_cases": 1108,
+    "forward_checkpoint": "/home/yuxiao/Yuxiao Li/tandem/2peak/weight_grid_runs/w0_1/model/DNN_tandem_FNN_label.ckpt"
+  },
+  {
+    "w_pw": 1.0,
+    "w_pi": 1.0,
+    "dip_mean": 3.542909518906356,
+    "dip_median": 0.83941650390625,
+    "depth_mean": 0.020153235644102097,
+    "depth_median": 0.01057262159883976,
+    "mse": 0.002881702035665512,
+    "scored_cases": 1108,
+    "forward_checkpoint": "/home/yuxiao/Yuxiao Li/tandem/2peak/weight_grid_runs/w0_1/model/DNN_tandem_FNN_label.ckpt"
+  },
+  {
+    "w_pw": 1.0,
+    "w_pi": 10.0,
+    "dip_mean": 2.279261445440184,
+    "dip_median": 0.83941650390625,
+    "depth_mean": 0.017046954482793808,
+    "depth_median": 0.009093314409255981,
+    "mse": 0.002930988324806094,
+    "scored_cases": 1109,
+    "forward_checkpoint": "/home/yuxiao/Yuxiao Li/tandem/2peak/weight_grid_runs/w0_1/model/DNN_tandem_FNN_label.ckpt"
+  },
+  {
+    "w_pw": 1.0,
+    "w_pi": 100.0,
+    "dip_mean": 2.2483354513195977,
+    "dip_median": 0.83941650390625,
+    "depth_mean": 0.020254923030734062,
+    "depth_median": 0.009135913103818893,
+    "mse": 0.0033722606021910906,
+    "scored_cases": 1104,
+    "forward_checkpoint": "/home/yuxiao/Yuxiao Li/tandem/2peak/weight_grid_runs/w0_1/model/DNN_tandem_FNN_label.ckpt"
+  },
+  {
+    "w_pw": 10.0,
+    "w_pi": 0.0,
+    "dip_mean": 2.8915221396069755,
+    "dip_median": 0.83941650390625,
+    "depth_mean": 0.021807348355650902,
+    "depth_median": 0.010969281196594238,
+    "mse": 0.0028000904712826014,
+    "scored_cases": 1107,
+    "forward_checkpoint": "/home/yuxiao/Yuxiao Li/tandem/2peak/weight_grid_runs/w0_1/model/DNN_tandem_FNN_label.ckpt"
+  },
+  {
+    "w_pw": 10.0,
+    "w_pi": 1.0,
+    "dip_mean": 4.2080813659227285,
+    "dip_median": 0.8394317626953125,
+    "depth_mean": 0.026013553142547607,
+    "depth_median": 0.012172648683190346,
+    "mse": 0.0027314121834933758,
+    "scored_cases": 1108,
+    "forward_checkpoint": "/home/yuxiao/Yuxiao Li/tandem/2peak/weight_grid_runs/w0_1/model/DNN_tandem_FNN_label.ckpt"
+  },
+  {
+    "w_pw": 10.0,
+    "w_pi": 10.0,
+    "dip_mean": 1.9775509533581432,
+    "dip_median": 0.83941650390625,
+    "depth_mean": 0.016742313280701637,
+    "depth_median": 0.008938553743064404,
+    "mse": 0.002926208544522524,
+    "scored_cases": 1110,
+    "forward_checkpoint": "/home/yuxiao/Yuxiao Li/tandem/2peak/weight_grid_runs/w0_1/model/DNN_tandem_FNN_label.ckpt"
+  },
+  {
+    "w_pw": 10.0,
+    "w_pi": 100.0,
+    "dip_mean": 47.448516023001375,
+    "dip_median": 39.24284362792969,
+    "depth_mean": 0.23379456996917725,
+    "depth_median": 0.26539111137390137,
+    "mse": 0.04011904448270798,
+    "scored_cases": 983,
+    "forward_checkpoint": "/home/yuxiao/Yuxiao Li/tandem/2peak/weight_grid_runs/w0_1/model/DNN_tandem_FNN_label.ckpt"
+  },
+  {
+    "w_pw": 100.0,
+    "w_pi": 0.0,
+    "dip_mean": 1.8498661440632405,
+    "dip_median": 0.83941650390625,
+    "depth_mean": 0.01810525916516781,
+    "depth_median": 0.009591059759259224,
+    "mse": 0.00290416507050395,
+    "scored_cases": 1108,
+    "forward_checkpoint": "/home/yuxiao/Yuxiao Li/tandem/2peak/weight_grid_runs/w0_1/model/DNN_tandem_FNN_label.ckpt"
+  },
+  {
+    "w_pw": 100.0,
+    "w_pi": 1.0,
+    "dip_mean": 2.458515723975929,
+    "dip_median": 0.8394317626953125,
+    "depth_mean": 0.02358419820666313,
+    "depth_median": 0.012522637844085693,
+    "mse": 0.0028314755763858557,
+    "scored_cases": 1110,
+    "forward_checkpoint": "/home/yuxiao/Yuxiao Li/tandem/2peak/weight_grid_runs/w0_1/model/DNN_tandem_FNN_label.ckpt"
+  },
+  {
+    "w_pw": 100.0,
+    "w_pi": 10.0,
+    "dip_mean": 1.8004033544042088,
+    "dip_median": 0.83941650390625,
+    "depth_mean": 0.016620920971035957,
+    "depth_median": 0.008937501348555088,
+    "mse": 0.002910844050347805,
+    "scored_cases": 1110,
+    "forward_checkpoint": "/home/yuxiao/Yuxiao Li/tandem/2peak/weight_grid_runs/w0_1/model/DNN_tandem_FNN_label.ckpt"
+  },
+  {
+    "w_pw": 100.0,
+    "w_pi": 100.0,
+    "dip_mean": 51.6184253138025,
+    "dip_median": 48.056732177734375,
+    "depth_mean": 0.24926935136318207,
+    "depth_median": 0.3021424412727356,
+    "mse": 0.050824519246816635,
+    "scored_cases": 791,
+    "forward_checkpoint": "/home/yuxiao/Yuxiao Li/tandem/2peak/weight_grid_runs/w0_1/model/DNN_tandem_FNN_label.ckpt"
+  }
+]
