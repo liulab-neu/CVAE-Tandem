@@ -48,14 +48,14 @@ Tracked here, so the repository reproduces the paper on its own:
 | | size | contents |
 |---|---|---|
 | `2peak/data/cstdata_35547.npz` | 79 MB | double-notch training set |
-| `2peak/data/cstdata_10496.npz` | 71 MB | the earlier double-notch set, kept for comparison |
 | `1peak/data/` | 16 MB | single-notch training set |
 | `<system>/model/` | 261 MB | the six deployed networks and their provenance |
 
-Cloning therefore pulls about 450 MB. The one thing left out is
-`2peak/data/cstdata_35547/`, the 35,547 raw per-sample exports the bundle was
-packed from: 539 MB in 35k files, verified against the packed `.npz`, and read
-by nothing except `pack_dataset.py`.
+Cloning therefore pulls about 380 MB. What is not here is the 35,547 raw
+per-sample exports the double-notch bundle was packed from: the bundle is the
+mean over the three incidence angles, so the raw files additionally hold each
+angle on its own. Nothing in this repository reads them, and every figure and
+table is reproducible without them.
 
 The double-notch set is a full factorial grid: both host refractive indices
 from 1.50 to 3.05 in steps of 0.1 (17 values each) and the nanoparticle radius

@@ -8,6 +8,10 @@
 2peak/data/cstdata_35547/
 2peak/logs_dataset/
 
+# The earlier 10,496-point set. Every result in the paper comes from the
+# 35,547-point one; this is kept on the working machine only.
+2peak/data/cstdata_10496.npz
+
 # A GroupNorm variant tried during development and not used in the paper.
 2peak/norm_experiment/
 
