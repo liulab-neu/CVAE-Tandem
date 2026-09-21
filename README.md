@@ -64,7 +64,6 @@ Each was simulated at 0, 30 and 60 degrees and the three spectra averaged, so
 35,547 full-wave runs stand behind it. Spectra are sampled at 1001 points from
 380 to 799 nm.
 
-Place the archives at the paths above and every command below runs unchanged.
 
 ## Reproducing the figures
 
