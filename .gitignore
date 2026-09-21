@@ -22,3 +22,8 @@ Filter_CST_DataGen_Share/venv/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# IDE settings and a stray licence-daemon diagnostic: machine-specific,
+# and nothing a reader of this archive needs.
+.idea/
+flex731.log
